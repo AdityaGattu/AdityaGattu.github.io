@@ -1,0 +1,4434 @@
+[
+  {
+    "sofifa_id": 212151,
+    "short_name": "T. Strakosha",
+    "club_team_id": 46,
+    "nationality_id": 1,
+    "club_name": "Lazio",
+    "nationality_name": "Albania"
+  },
+  {
+    "sofifa_id": 208165,
+    "short_name": "B. Djimsiti",
+    "club_team_id": 39,
+    "nationality_id": 1,
+    "club_name": "Atalanta",
+    "nationality_name": "Albania"
+  },
+  {
+    "sofifa_id": 210864,
+    "short_name": "E. Hysaj",
+    "club_team_id": 46,
+    "nationality_id": 1,
+    "club_name": "Lazio",
+    "nationality_name": "Albania"
+  },
+  {
+    "sofifa_id": 237184,
+    "short_name": "K. Bare",
+    "club_team_id": 452,
+    "nationality_id": 1,
+    "club_name": "RCD Espanyol de Barcelona",
+    "nationality_name": "Albania"
+  },
+  {
+    "sofifa_id": 189296,
+    "short_name": "E. Berisha",
+    "club_team_id": 54,
+    "nationality_id": 1,
+    "club_name": "Torino F.C.",
+    "nationality_name": "Albania"
+  },
+  {
+    "sofifa_id": 245426,
+    "short_name": "M. Kumbulla",
+    "club_team_id": 52,
+    "nationality_id": 1,
+    "club_name": "Roma",
+    "nationality_name": "Albania"
+  },
+  {
+    "sofifa_id": 261204,
+    "short_name": "M. Uzuni",
+    "club_team_id": 1874,
+    "nationality_id": 1,
+    "club_name": "Ferencvárosi TC",
+    "nationality_name": "Albania"
+  },
+  {
+    "sofifa_id": 204485,
+    "short_name": "R. Mahrez",
+    "club_team_id": 10,
+    "nationality_id": 97,
+    "club_name": "Manchester City",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 193983,
+    "short_name": "A. Delort",
+    "club_team_id": 72,
+    "nationality_id": 97,
+    "club_name": "OGC Nice",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 201143,
+    "short_name": "A. Mandi",
+    "club_team_id": 483,
+    "nationality_id": 97,
+    "club_name": "Villarreal CF",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 226754,
+    "short_name": "I. Bennacer",
+    "club_team_id": 47,
+    "nationality_id": 97,
+    "club_name": "AC Milan",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 224196,
+    "short_name": "R. Bensebaini",
+    "club_team_id": 23,
+    "nationality_id": 97,
+    "club_name": "Borussia Mönchengladbach",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 176772,
+    "short_name": "A. Oukidja",
+    "club_team_id": 68,
+    "nationality_id": 97,
+    "club_name": "FC Metz",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 210372,
+    "short_name": "R. Ghezzal",
+    "club_team_id": 327,
+    "nationality_id": 97,
+    "club_name": "Beşiktaş JK",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 201454,
+    "short_name": "F. Ghoulam",
+    "club_team_id": 48,
+    "nationality_id": 97,
+    "club_name": "Napoli",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 220621,
+    "short_name": "S. Benrahma",
+    "club_team_id": 19,
+    "nationality_id": 97,
+    "club_name": "West Ham United",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 222515,
+    "short_name": "Z. Ferhat",
+    "club_team_id": 224,
+    "nationality_id": 97,
+    "club_name": "Nîmes Olympique",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 210438,
+    "short_name": "F. Boulaya",
+    "club_team_id": 68,
+    "nationality_id": 97,
+    "club_name": "FC Metz",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 217699,
+    "short_name": "I. Slimani",
+    "club_team_id": 66,
+    "nationality_id": 97,
+    "club_name": "Olympique Lyonnais",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 240754,
+    "short_name": "Y. Atal",
+    "club_team_id": 72,
+    "nationality_id": 97,
+    "club_name": "OGC Nice",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 184881,
+    "short_name": "S. Feghouli",
+    "club_team_id": 325,
+    "nationality_id": 97,
+    "club_name": "Galatasaray SK",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 224444,
+    "short_name": "H. Belkebla",
+    "club_team_id": 378,
+    "nationality_id": 97,
+    "club_name": "Stade Brestois 29",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 253157,
+    "short_name": "H. Boudaoui",
+    "club_team_id": 72,
+    "nationality_id": 97,
+    "club_name": "OGC Nice",
+    "nationality_name": "Algeria"
+  },
+  {
+    "sofifa_id": 208364,
+    "short_name": "Clinton Mata",
+    "club_team_id": 231,
+    "nationality_id": 98,
+    "club_name": "Club Brugge KV",
+    "nationality_name": "Angola"
+  },
+  {
+    "sofifa_id": 227527,
+    "short_name": "Fábio Abreu",
+    "club_team_id": 112990,
+    "nationality_id": 98,
+    "club_name": "Al Batin",
+    "nationality_name": "Angola"
+  },
+  {
+    "sofifa_id": 158023,
+    "short_name": "L. Messi",
+    "club_team_id": 73,
+    "nationality_id": 52,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 153079,
+    "short_name": "S. Agüero",
+    "club_team_id": 241,
+    "nationality_id": 52,
+    "club_name": "FC Barcelona",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 183898,
+    "short_name": "Á. Di María",
+    "club_team_id": 73,
+    "nationality_id": 52,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 211110,
+    "short_name": "P. Dybala",
+    "club_team_id": 45,
+    "nationality_id": 52,
+    "club_name": "Juventus",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 143076,
+    "short_name": "A. Gómez",
+    "club_team_id": 481,
+    "nationality_id": 52,
+    "club_name": "Sevilla FC",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 231478,
+    "short_name": "L. Martínez",
+    "club_team_id": 44,
+    "nationality_id": 52,
+    "club_name": "Inter",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 202811,
+    "short_name": "E. Martínez",
+    "club_team_id": 2,
+    "nationality_id": 52,
+    "club_name": "Aston Villa",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 224334,
+    "short_name": "M. Acuña",
+    "club_team_id": 481,
+    "nationality_id": 52,
+    "club_name": "Sevilla FC",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 201399,
+    "short_name": "M. Icardi",
+    "club_team_id": 73,
+    "nationality_id": 52,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 205632,
+    "short_name": "L. Ocampos",
+    "club_team_id": 481,
+    "nationality_id": 52,
+    "club_name": "Sevilla FC",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 214997,
+    "short_name": "Á. Correa",
+    "club_team_id": 240,
+    "nationality_id": 52,
+    "club_name": "Atlético de Madrid",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 178562,
+    "short_name": "É. Banega",
+    "club_team_id": 111674,
+    "nationality_id": 52,
+    "club_name": "Al Shabab",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 211256,
+    "short_name": "N. Tagliafico",
+    "club_team_id": 245,
+    "nationality_id": 52,
+    "club_name": "Ajax",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 212616,
+    "short_name": "R. De Paul",
+    "club_team_id": 240,
+    "nationality_id": 52,
+    "club_name": "Atlético de Madrid",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 232488,
+    "short_name": "C. Romero",
+    "club_team_id": 18,
+    "nationality_id": 52,
+    "club_name": "Tottenham Hotspur",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 167664,
+    "short_name": "G. Higuaín",
+    "club_team_id": 112893,
+    "nationality_id": 52,
+    "club_name": "Inter Miami CF",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 192366,
+    "short_name": "N. Otamendi",
+    "club_team_id": 234,
+    "nationality_id": 52,
+    "club_name": "SL Benfica",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 201095,
+    "short_name": "A. Marchesín",
+    "club_team_id": 236,
+    "nationality_id": 52,
+    "club_name": "FC Porto",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 207439,
+    "short_name": "L. Paredes",
+    "club_team_id": 73,
+    "nationality_id": 52,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 214979,
+    "short_name": "J. Musso",
+    "club_team_id": 39,
+    "nationality_id": 52,
+    "club_name": "Atalanta",
+    "nationality_name": "Argentina"
+  },
+  {
+    "sofifa_id": 192883,
+    "short_name": "H. Mkhitaryan",
+    "club_team_id": 52,
+    "nationality_id": 3,
+    "club_name": "Roma",
+    "nationality_name": "Armenia"
+  },
+  {
+    "sofifa_id": 194958,
+    "short_name": "A. Mooy",
+    "club_team_id": 112540,
+    "nationality_id": 195,
+    "club_name": "Shanghai Port FC",
+    "nationality_name": "Australia"
+  },
+  {
+    "sofifa_id": 199005,
+    "short_name": "M. Ryan",
+    "club_team_id": 457,
+    "nationality_id": 195,
+    "club_name": "Real Sociedad",
+    "nationality_name": "Australia"
+  },
+  {
+    "sofifa_id": 212232,
+    "short_name": "J. Maclaren",
+    "club_team_id": 112224,
+    "nationality_id": 195,
+    "club_name": "Melbourne City FC",
+    "nationality_name": "Australia"
+  },
+  {
+    "sofifa_id": 181481,
+    "short_name": "D. Vukovic",
+    "club_team_id": 1910,
+    "nationality_id": 195,
+    "club_name": "N.E.C. Nijmegen",
+    "nationality_name": "Australia"
+  },
+  {
+    "sofifa_id": 180930,
+    "short_name": "E. Džeko",
+    "club_team_id": 44,
+    "nationality_id": 8,
+    "club_name": "Inter",
+    "nationality_name": "Bosnia and Herzegovina"
+  },
+  {
+    "sofifa_id": 180206,
+    "short_name": "M. Pjanić",
+    "club_team_id": 327,
+    "nationality_id": 8,
+    "club_name": "Beşiktaş JK",
+    "nationality_name": "Bosnia and Herzegovina"
+  },
+  {
+    "sofifa_id": 205678,
+    "short_name": "E. Višća",
+    "club_team_id": 101014,
+    "nationality_id": 8,
+    "club_name": "İstanbul Başakşehir FK",
+    "nationality_name": "Bosnia and Herzegovina"
+  },
+  {
+    "sofifa_id": 172723,
+    "short_name": "A. Begović",
+    "club_team_id": 7,
+    "nationality_id": 8,
+    "club_name": "Everton",
+    "nationality_name": "Bosnia and Herzegovina"
+  },
+  {
+    "sofifa_id": 201860,
+    "short_name": "E. Bičakčić",
+    "club_team_id": 10029,
+    "nationality_id": 8,
+    "club_name": "TSG Hoffenheim",
+    "nationality_name": "Bosnia and Herzegovina"
+  },
+  {
+    "sofifa_id": 207993,
+    "short_name": "S. Kolašinac",
+    "club_team_id": 1,
+    "nationality_id": 8,
+    "club_name": "Arsenal",
+    "nationality_name": "Bosnia and Herzegovina"
+  },
+  {
+    "sofifa_id": 229758,
+    "short_name": "R. Krunić",
+    "club_team_id": 47,
+    "nationality_id": 8,
+    "club_name": "AC Milan",
+    "nationality_name": "Bosnia and Herzegovina"
+  },
+  {
+    "sofifa_id": 190871,
+    "short_name": "Neymar Jr",
+    "club_team_id": 73,
+    "nationality_id": 54,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 200145,
+    "short_name": "Casemiro",
+    "club_team_id": 243,
+    "nationality_id": 54,
+    "club_name": "Real Madrid CF",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 210257,
+    "short_name": "Ederson",
+    "club_team_id": 10,
+    "nationality_id": 54,
+    "club_name": "Manchester City",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 212831,
+    "short_name": "Alisson",
+    "club_team_id": 9,
+    "nationality_id": 54,
+    "club_name": "Liverpool",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 207865,
+    "short_name": "Marquinhos",
+    "club_team_id": 73,
+    "nationality_id": 54,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 209499,
+    "short_name": "Fabinho",
+    "club_team_id": 9,
+    "nationality_id": 54,
+    "club_name": "Liverpool",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 164240,
+    "short_name": "Thiago Silva",
+    "club_team_id": 5,
+    "nationality_id": 54,
+    "club_name": "Chelsea",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 201942,
+    "short_name": "Roberto Firmino",
+    "club_team_id": 9,
+    "nationality_id": 54,
+    "club_name": "Liverpool",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 184134,
+    "short_name": "Fernando",
+    "club_team_id": 481,
+    "nationality_id": 54,
+    "club_name": "Sevilla FC",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 207863,
+    "short_name": "Felipe",
+    "club_team_id": 240,
+    "nationality_id": 54,
+    "club_name": "Atlético de Madrid",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 135507,
+    "short_name": "Fernandinho",
+    "club_team_id": 10,
+    "nationality_id": 54,
+    "club_name": "Manchester City",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 187961,
+    "short_name": "Paulinho",
+    "club_team_id": 112387,
+    "nationality_id": 54,
+    "club_name": "Al Ahli",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 191043,
+    "short_name": "Alex Sandro",
+    "club_team_id": 45,
+    "nationality_id": 54,
+    "club_name": "Juventus",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 199914,
+    "short_name": "Allan",
+    "club_team_id": 7,
+    "nationality_id": 54,
+    "club_name": "Everton",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 230481,
+    "short_name": "Ronaldo Cabrais",
+    "club_team_id": 1629,
+    "nationality_id": 54,
+    "club_name": "Grêmio",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 230658,
+    "short_name": "Arthur",
+    "club_team_id": 45,
+    "nationality_id": 54,
+    "club_name": "Juventus",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 230666,
+    "short_name": "Gabriel Jesus",
+    "club_team_id": 10,
+    "nationality_id": 54,
+    "club_name": "Manchester City",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 188152,
+    "short_name": "Oscar",
+    "club_team_id": 112540,
+    "nationality_id": 54,
+    "club_name": "Shanghai Port FC",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 189242,
+    "short_name": "Coutinho",
+    "club_team_id": 241,
+    "nationality_id": 54,
+    "club_name": "FC Barcelona",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 194404,
+    "short_name": "Neto",
+    "club_team_id": 241,
+    "nationality_id": 54,
+    "club_name": "FC Barcelona",
+    "nationality_name": "Brazil"
+  },
+  {
+    "sofifa_id": 247263,
+    "short_name": "E. Tapsoba",
+    "club_team_id": 32,
+    "nationality_id": 101,
+    "club_name": "Bayer 04 Leverkusen",
+    "nationality_name": "Burkina Faso"
+  },
+  {
+    "sofifa_id": 207948,
+    "short_name": "B. Traoré",
+    "club_team_id": 2,
+    "nationality_id": 101,
+    "club_name": "Aston Villa",
+    "nationality_name": "Burkina Faso"
+  },
+  {
+    "sofifa_id": 230938,
+    "short_name": "F. Kessié",
+    "club_team_id": 47,
+    "nationality_id": 108,
+    "club_name": "AC Milan",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 198717,
+    "short_name": "W. Zaha",
+    "club_team_id": 1799,
+    "nationality_id": 108,
+    "club_name": "Crystal Palace",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 226110,
+    "short_name": "N. Pépé",
+    "club_team_id": 1,
+    "nationality_id": 108,
+    "club_name": "Arsenal",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 205693,
+    "short_name": "S. Haller",
+    "club_team_id": 245,
+    "nationality_id": 108,
+    "club_name": "Ajax",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 202750,
+    "short_name": "W. Boly",
+    "club_team_id": 110,
+    "nationality_id": 108,
+    "club_name": "Wolverhampton Wanderers",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 225508,
+    "short_name": "E. Bailly",
+    "club_team_id": 11,
+    "nationality_id": 108,
+    "club_name": "Manchester United",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 216320,
+    "short_name": "S. Fofana",
+    "club_team_id": 64,
+    "nationality_id": 108,
+    "club_name": "Racing Club de Lens",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 214947,
+    "short_name": "J. Gbamin",
+    "club_team_id": 7,
+    "nationality_id": 108,
+    "club_name": "Everton",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 220421,
+    "short_name": "H. Kamara",
+    "club_team_id": 72,
+    "nationality_id": 108,
+    "club_name": "OGC Nice",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 224422,
+    "short_name": "J. Boga",
+    "club_team_id": 111974,
+    "nationality_id": 108,
+    "club_name": "U.S. Sassuolo Calcio",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 235173,
+    "short_name": "I. Sangaré",
+    "club_team_id": 247,
+    "nationality_id": 108,
+    "club_name": "PSV",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 170733,
+    "short_name": "Gervinho",
+    "club_team_id": 436,
+    "nationality_id": 108,
+    "club_name": "Trabzonspor",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 182945,
+    "short_name": "M. Gradel",
+    "club_team_id": 101041,
+    "nationality_id": 108,
+    "club_name": "Demir Grup Sivasspor",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 184873,
+    "short_name": "I. Traoré",
+    "club_team_id": 1530,
+    "nationality_id": 108,
+    "club_name": "Angers SCO",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 191135,
+    "short_name": "L. Júnior",
+    "club_team_id": 453,
+    "nationality_id": 108,
+    "club_name": "RCD Mallorca",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 205343,
+    "short_name": "J. Akpa Akpro",
+    "club_team_id": 46,
+    "nationality_id": 108,
+    "club_name": "Lazio",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 215798,
+    "short_name": "M. Cornet",
+    "club_team_id": 1796,
+    "nationality_id": 108,
+    "club_name": "Burnley",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 220905,
+    "short_name": "J. Aholou",
+    "club_team_id": 76,
+    "nationality_id": 108,
+    "club_name": "RC Strasbourg Alsace",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 228236,
+    "short_name": "S. Deli",
+    "club_team_id": 101016,
+    "nationality_id": 108,
+    "club_name": "Adana Demirspor",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 235634,
+    "short_name": "G. Konan",
+    "club_team_id": 379,
+    "nationality_id": 108,
+    "club_name": "Stade de Reims",
+    "nationality_name": "Côte d'Ivoire"
+  },
+  {
+    "sofifa_id": 197061,
+    "short_name": "J. Matip",
+    "club_team_id": 9,
+    "nationality_id": 103,
+    "club_name": "Liverpool",
+    "nationality_name": "Cameroon"
+  },
+  {
+    "sofifa_id": 209973,
+    "short_name": "J. Nsame",
+    "club_team_id": 900,
+    "nationality_id": 103,
+    "club_name": "BSC Young Boys",
+    "nationality_name": "Cameroon"
+  },
+  {
+    "sofifa_id": 224069,
+    "short_name": "K. Toko Ekambi",
+    "club_team_id": 66,
+    "nationality_id": 103,
+    "club_name": "Olympique Lyonnais",
+    "nationality_name": "Cameroon"
+  },
+  {
+    "sofifa_id": 199069,
+    "short_name": "V. Aboubakar",
+    "club_team_id": 112139,
+    "nationality_id": 103,
+    "club_name": "Al Nassr",
+    "nationality_name": "Cameroon"
+  },
+  {
+    "sofifa_id": 183569,
+    "short_name": "E. Choupo-Moting",
+    "club_team_id": 21,
+    "nationality_id": 103,
+    "club_name": "FC Bayern München",
+    "nationality_name": "Cameroon"
+  },
+  {
+    "sofifa_id": 227236,
+    "short_name": "A. Zambo Anguissa",
+    "club_team_id": 48,
+    "nationality_id": 103,
+    "club_name": "Napoli",
+    "nationality_name": "Cameroon"
+  },
+  {
+    "sofifa_id": 192667,
+    "short_name": "A. Nyom",
+    "club_team_id": 1860,
+    "nationality_id": 103,
+    "club_name": "Getafe CF",
+    "nationality_name": "Cameroon"
+  },
+  {
+    "sofifa_id": 203736,
+    "short_name": "S. Bahoken",
+    "club_team_id": 1530,
+    "nationality_id": 103,
+    "club_name": "Angers SCO",
+    "nationality_name": "Cameroon"
+  },
+  {
+    "sofifa_id": 228732,
+    "short_name": "H. Moukoudi",
+    "club_team_id": 1819,
+    "nationality_id": 103,
+    "club_name": "AS Saint-Étienne",
+    "nationality_name": "Cameroon"
+  },
+  {
+    "sofifa_id": 234789,
+    "short_name": "Y. Eteki",
+    "club_team_id": 110832,
+    "nationality_id": 103,
+    "club_name": "Granada CF",
+    "nationality_name": "Cameroon"
+  },
+  {
+    "sofifa_id": 237626,
+    "short_name": "Y. Neyou",
+    "club_team_id": 1819,
+    "nationality_id": 103,
+    "club_name": "AS Saint-Étienne",
+    "nationality_name": "Cameroon"
+  },
+  {
+    "sofifa_id": 244193,
+    "short_name": "Jovane Cabral",
+    "club_team_id": 237,
+    "nationality_id": 104,
+    "club_name": "Sporting CP",
+    "nationality_name": "Cape Verde Islands"
+  },
+  {
+    "sofifa_id": 203757,
+    "short_name": "Zé Luís",
+    "club_team_id": 100765,
+    "nationality_id": 104,
+    "club_name": "FC Lokomotiv Moscow",
+    "nationality_name": "Cape Verde Islands"
+  },
+  {
+    "sofifa_id": 231150,
+    "short_name": "Jamiro Monteiro",
+    "club_team_id": 112134,
+    "nationality_id": 104,
+    "club_name": "Philadelphia Union",
+    "nationality_name": "Cape Verde Islands"
+  },
+  {
+    "sofifa_id": 201455,
+    "short_name": "G. Kondogbia",
+    "club_team_id": 240,
+    "nationality_id": 105,
+    "club_name": "Atlético de Madrid",
+    "nationality_name": "Central African Republic"
+  },
+  {
+    "sofifa_id": 181872,
+    "short_name": "A. Vidal",
+    "club_team_id": 44,
+    "nationality_id": 55,
+    "club_name": "Inter",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 184941,
+    "short_name": "A. Sánchez",
+    "club_team_id": 44,
+    "nationality_id": 55,
+    "club_name": "Inter",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 199042,
+    "short_name": "C. Aránguiz",
+    "club_team_id": 32,
+    "nationality_id": 55,
+    "club_name": "Bayer 04 Leverkusen",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 223249,
+    "short_name": "G. Arias",
+    "club_team_id": 101085,
+    "nationality_id": 55,
+    "club_name": "Racing Club",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 174543,
+    "short_name": "C. Bravo",
+    "club_team_id": 449,
+    "nationality_id": 55,
+    "club_name": "Real Betis Balompié",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 219145,
+    "short_name": "G. Maripán",
+    "club_team_id": 69,
+    "nationality_id": 55,
+    "club_name": "AS Monaco",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 176930,
+    "short_name": "M. Díaz",
+    "club_team_id": 111008,
+    "nationality_id": 55,
+    "club_name": "Club Libertad",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 209744,
+    "short_name": "E. Mena",
+    "club_team_id": 101085,
+    "nationality_id": 55,
+    "club_name": "Racing Club",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 229469,
+    "short_name": "J. Meneses",
+    "club_team_id": 110781,
+    "nationality_id": 55,
+    "club_name": "Club León",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 137242,
+    "short_name": "L. Jiménez",
+    "club_team_id": 111328,
+    "nationality_id": 55,
+    "club_name": "Club Deportivo Palestino",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 196069,
+    "short_name": "J. Fuenzalida",
+    "club_team_id": 110975,
+    "nationality_id": 55,
+    "club_name": "Universidad Católica",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 213629,
+    "short_name": "E. Pulgar",
+    "club_team_id": 110374,
+    "nationality_id": 55,
+    "club_name": "Fiorentina",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 215103,
+    "short_name": "É. Puch",
+    "club_team_id": 110975,
+    "nationality_id": 55,
+    "club_name": "Universidad Católica",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 219087,
+    "short_name": "S. Vegas",
+    "club_team_id": 1032,
+    "nationality_id": 55,
+    "club_name": "CF Monterrey",
+    "nationality_name": "Chile"
+  },
+  {
+    "sofifa_id": 192064,
+    "short_name": "Gao Late",
+    "club_team_id": 111839,
+    "nationality_id": 155,
+    "club_name": "Guangzhou FC",
+    "nationality_name": "China PR"
+  },
+  {
+    "sofifa_id": 192598,
+    "short_name": "Ai Kesen",
+    "club_team_id": 111839,
+    "nationality_id": 155,
+    "club_name": "Guangzhou FC",
+    "nationality_name": "China PR"
+  },
+  {
+    "sofifa_id": 188044,
+    "short_name": "A Lan",
+    "club_team_id": 111839,
+    "nationality_id": 155,
+    "club_name": "Guangzhou FC",
+    "nationality_name": "China PR"
+  },
+  {
+    "sofifa_id": 211108,
+    "short_name": "Fei Nanduo",
+    "club_team_id": 111839,
+    "nationality_id": 155,
+    "club_name": "Guangzhou FC",
+    "nationality_name": "China PR"
+  },
+  {
+    "sofifa_id": 221445,
+    "short_name": "Wu Lei",
+    "club_team_id": 452,
+    "nationality_id": 155,
+    "club_name": "RCD Espanyol de Barcelona",
+    "nationality_name": "China PR"
+  },
+  {
+    "sofifa_id": 193082,
+    "short_name": "J. Cuadrado",
+    "club_team_id": 45,
+    "nationality_id": 56,
+    "club_name": "Juventus",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 215333,
+    "short_name": "D. Zapata",
+    "club_team_id": 39,
+    "nationality_id": 56,
+    "club_name": "Atalanta",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 199110,
+    "short_name": "L. Muriel",
+    "club_team_id": 39,
+    "nationality_id": 56,
+    "club_name": "Atalanta",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 198710,
+    "short_name": "J. Rodríguez",
+    "club_team_id": 7,
+    "nationality_id": 56,
+    "club_name": "Everton",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 241084,
+    "short_name": "L. Díaz",
+    "club_team_id": 236,
+    "nationality_id": 56,
+    "club_name": "FC Porto",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 176550,
+    "short_name": "D. Ospina",
+    "club_team_id": 48,
+    "nationality_id": 56,
+    "club_name": "Napoli",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 204259,
+    "short_name": "S. Arias",
+    "club_team_id": 110832,
+    "nationality_id": 56,
+    "club_name": "Granada CF",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 210513,
+    "short_name": "J. Quintero",
+    "club_team_id": 111773,
+    "nationality_id": 56,
+    "club_name": "Shenzhen FC",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 214047,
+    "short_name": "M. Uribe",
+    "club_team_id": 236,
+    "nationality_id": 56,
+    "club_name": "FC Porto",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 220523,
+    "short_name": "Y. Mina",
+    "club_team_id": 7,
+    "nationality_id": 56,
+    "club_name": "Everton",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 220793,
+    "short_name": "D. Sánchez",
+    "club_team_id": 18,
+    "nationality_id": 56,
+    "club_name": "Tottenham Hotspur",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 167397,
+    "short_name": "Falcao",
+    "club_team_id": 480,
+    "nationality_id": 56,
+    "club_name": "Rayo Vallecano",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 214040,
+    "short_name": "F. Fabra",
+    "club_team_id": 1877,
+    "nationality_id": 56,
+    "club_name": "Boca Juniors",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 220883,
+    "short_name": "R. Borré",
+    "club_team_id": 1824,
+    "nationality_id": 56,
+    "club_name": "Eintracht Frankfurt",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 192342,
+    "short_name": "E. Cardona",
+    "club_team_id": 1877,
+    "nationality_id": 56,
+    "club_name": "Boca Juniors",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 196147,
+    "short_name": "G. Moreno",
+    "club_team_id": 110955,
+    "nationality_id": 56,
+    "club_name": "Shanghai Shenhua FC",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 201377,
+    "short_name": "J. Murillo",
+    "club_team_id": 450,
+    "nationality_id": 56,
+    "club_name": "RC Celta de Vigo",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 207664,
+    "short_name": "C. Bacca",
+    "club_team_id": 110832,
+    "nationality_id": 56,
+    "club_name": "Granada CF",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 212067,
+    "short_name": "C. Vargas",
+    "club_team_id": 101114,
+    "nationality_id": 56,
+    "club_name": "Club Atlas",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 214009,
+    "short_name": "G. Cuéllar",
+    "club_team_id": 605,
+    "nationality_id": 56,
+    "club_name": "Al Hilal",
+    "nationality_name": "Colombia"
+  },
+  {
+    "sofifa_id": 198951,
+    "short_name": "C. Bakambu",
+    "club_team_id": 111768,
+    "nationality_id": 110,
+    "club_name": "Beijing Guoan FC",
+    "nationality_name": "Congo DR"
+  },
+  {
+    "sofifa_id": 210897,
+    "short_name": "C. Mbemba",
+    "club_team_id": 236,
+    "nationality_id": 110,
+    "club_name": "FC Porto",
+    "nationality_name": "Congo DR"
+  },
+  {
+    "sofifa_id": 186197,
+    "short_name": "G. Kakuta",
+    "club_team_id": 64,
+    "nationality_id": 110,
+    "club_name": "Racing Club de Lens",
+    "nationality_name": "Congo DR"
+  },
+  {
+    "sofifa_id": 212491,
+    "short_name": "A. Masuaku",
+    "club_team_id": 19,
+    "nationality_id": 110,
+    "club_name": "West Ham United",
+    "nationality_name": "Congo DR"
+  },
+  {
+    "sofifa_id": 234824,
+    "short_name": "Y. Wissa",
+    "club_team_id": 1925,
+    "nationality_id": 110,
+    "club_name": "Brentford",
+    "nationality_name": "Congo DR"
+  },
+  {
+    "sofifa_id": 237556,
+    "short_name": "C. Luyindama",
+    "club_team_id": 325,
+    "nationality_id": 110,
+    "club_name": "Galatasaray SK",
+    "nationality_name": "Congo DR"
+  },
+  {
+    "sofifa_id": 245940,
+    "short_name": "Silas",
+    "club_team_id": 36,
+    "nationality_id": 110,
+    "club_name": "VfB Stuttgart",
+    "nationality_name": "Congo DR"
+  },
+  {
+    "sofifa_id": 193041,
+    "short_name": "K. Navas",
+    "club_team_id": 73,
+    "nationality_id": 72,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "Costa Rica"
+  },
+  {
+    "sofifa_id": 204713,
+    "short_name": "J. Campbell",
+    "club_team_id": 1032,
+    "nationality_id": 72,
+    "club_name": "CF Monterrey",
+    "nationality_name": "Costa Rica"
+  },
+  {
+    "sofifa_id": 177003,
+    "short_name": "L. Modrić",
+    "club_team_id": 243,
+    "nationality_id": 10,
+    "club_name": "Real Madrid CF",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 216352,
+    "short_name": "M. Brozović",
+    "club_team_id": 44,
+    "nationality_id": 10,
+    "club_name": "Inter",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 207410,
+    "short_name": "M. Kovačić",
+    "club_team_id": 5,
+    "nationality_id": 10,
+    "club_name": "Chelsea",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 216354,
+    "short_name": "A. Kramarić",
+    "club_team_id": 10029,
+    "nationality_id": 10,
+    "club_name": "TSG Hoffenheim",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 168651,
+    "short_name": "I. Rakitić",
+    "club_team_id": 481,
+    "nationality_id": 10,
+    "club_name": "Sevilla FC",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 220018,
+    "short_name": "A. Rebić",
+    "club_team_id": 47,
+    "nationality_id": 10,
+    "club_name": "AC Milan",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 241671,
+    "short_name": "D. Livaković",
+    "club_team_id": 211,
+    "nationality_id": 10,
+    "club_name": "Dinamo Zagreb",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 181458,
+    "short_name": "I. Perišić",
+    "club_team_id": 44,
+    "nationality_id": 10,
+    "club_name": "Inter",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 203890,
+    "short_name": "Š. Vrsaljko",
+    "club_team_id": 240,
+    "nationality_id": 10,
+    "club_name": "Atlético de Madrid",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 241095,
+    "short_name": "N. Vlašić",
+    "club_team_id": 19,
+    "nationality_id": 10,
+    "club_name": "West Ham United",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 188335,
+    "short_name": "A. Budimir",
+    "club_team_id": 479,
+    "nationality_id": 10,
+    "club_name": "CA Osasuna",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 199206,
+    "short_name": "D. Vida",
+    "club_team_id": 327,
+    "nationality_id": 10,
+    "club_name": "Beşiktaş JK",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 223273,
+    "short_name": "M. Pašalić",
+    "club_team_id": 39,
+    "nationality_id": 10,
+    "club_name": "Atalanta",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 225263,
+    "short_name": "D. Ćaleta-Car",
+    "club_team_id": 219,
+    "nationality_id": 10,
+    "club_name": "Olympique de Marseille",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 221174,
+    "short_name": "M. Oršić",
+    "club_team_id": 211,
+    "nationality_id": 10,
+    "club_name": "Dinamo Zagreb",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 243388,
+    "short_name": "B. Sosa",
+    "club_team_id": 36,
+    "nationality_id": 10,
+    "club_name": "VfB Stuttgart",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 201144,
+    "short_name": "M. Badelj",
+    "club_team_id": 110556,
+    "nationality_id": 10,
+    "club_name": "Genoa",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 215455,
+    "short_name": "B. Petković",
+    "club_team_id": 211,
+    "nationality_id": 10,
+    "club_name": "Dinamo Zagreb",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 234711,
+    "short_name": "J. Brekalo",
+    "club_team_id": 54,
+    "nationality_id": 10,
+    "club_name": "Torino F.C.",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 244261,
+    "short_name": "L. Majer",
+    "club_team_id": 74,
+    "nationality_id": 10,
+    "club_name": "Stade Rennais FC",
+    "nationality_name": "Croatia"
+  },
+  {
+    "sofifa_id": 236792,
+    "short_name": "T. Souček",
+    "club_team_id": 19,
+    "nationality_id": 12,
+    "club_name": "West Ham United",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 204120,
+    "short_name": "T. Vaclík",
+    "club_team_id": 280,
+    "nationality_id": 12,
+    "club_name": "Olympiacos CFP",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 236583,
+    "short_name": "J. Pavlenka",
+    "club_team_id": 38,
+    "nationality_id": 12,
+    "club_name": "SV Werder Bremen",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 244470,
+    "short_name": "V. Coufal",
+    "club_team_id": 19,
+    "nationality_id": 12,
+    "club_name": "West Ham United",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 234236,
+    "short_name": "P. Schick",
+    "club_team_id": 32,
+    "nationality_id": 12,
+    "club_name": "Bayer 04 Leverkusen",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 203605,
+    "short_name": "P. Kadeřábek",
+    "club_team_id": 10029,
+    "nationality_id": 12,
+    "club_name": "TSG Hoffenheim",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 236791,
+    "short_name": "A. Barák",
+    "club_team_id": 206,
+    "nationality_id": 12,
+    "club_name": "Hellas Verona",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 244467,
+    "short_name": "O. Kolář",
+    "club_team_id": 266,
+    "nationality_id": 12,
+    "club_name": "SK Slavia Praha",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 180808,
+    "short_name": "O. Kúdela",
+    "club_team_id": 266,
+    "nationality_id": 12,
+    "club_name": "SK Slavia Praha",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 247030,
+    "short_name": "P. Ševčík",
+    "club_team_id": 266,
+    "nationality_id": 12,
+    "club_name": "SK Slavia Praha",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 251116,
+    "short_name": "T. Holeš",
+    "club_team_id": 266,
+    "nationality_id": 12,
+    "club_name": "SK Slavia Praha",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 253727,
+    "short_name": "L. Provod",
+    "club_team_id": 266,
+    "nationality_id": 12,
+    "club_name": "SK Slavia Praha",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 201262,
+    "short_name": "V. Darida",
+    "club_team_id": 166,
+    "nationality_id": 12,
+    "club_name": "Hertha BSC",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 204125,
+    "short_name": "J. Bořil",
+    "club_team_id": 266,
+    "nationality_id": 12,
+    "club_name": "SK Slavia Praha",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 243007,
+    "short_name": "L. Masopust",
+    "club_team_id": 266,
+    "nationality_id": 12,
+    "club_name": "SK Slavia Praha",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 246618,
+    "short_name": "A. Hložek",
+    "club_team_id": 267,
+    "nationality_id": 12,
+    "club_name": "AC Sparta Praha",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 251221,
+    "short_name": "L. Kalvach",
+    "club_team_id": 110468,
+    "nationality_id": 12,
+    "club_name": "FC Viktoria Plzeň",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 181271,
+    "short_name": "B. Dočkal",
+    "club_team_id": 267,
+    "nationality_id": 12,
+    "club_name": "AC Sparta Praha",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 188038,
+    "short_name": "O. Čelůstka",
+    "club_team_id": 267,
+    "nationality_id": 12,
+    "club_name": "AC Sparta Praha",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 247028,
+    "short_name": "A. Král",
+    "club_team_id": 19,
+    "nationality_id": 12,
+    "club_name": "West Ham United",
+    "nationality_name": "Czech Republic"
+  },
+  {
+    "sofifa_id": 163587,
+    "short_name": "K. Schmeichel",
+    "club_team_id": 95,
+    "nationality_id": 13,
+    "club_name": "Leicester City",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 179645,
+    "short_name": "S. Kjær",
+    "club_team_id": 47,
+    "nationality_id": 13,
+    "club_name": "AC Milan",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 213648,
+    "short_name": "P. Højbjerg",
+    "club_team_id": 18,
+    "nationality_id": 13,
+    "club_name": "Tottenham Hotspur",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 190460,
+    "short_name": "C. Eriksen",
+    "club_team_id": 44,
+    "nationality_id": 13,
+    "club_name": "Inter",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 193283,
+    "short_name": "T. Delaney",
+    "club_team_id": 481,
+    "nationality_id": 13,
+    "club_name": "Sevilla FC",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 172522,
+    "short_name": "D. Wass",
+    "club_team_id": 461,
+    "nationality_id": 13,
+    "club_name": "Valencia CF",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 213661,
+    "short_name": "A. Christensen",
+    "club_team_id": 5,
+    "nationality_id": 13,
+    "club_name": "Chelsea",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 228687,
+    "short_name": "K. Dolberg",
+    "club_team_id": 72,
+    "nationality_id": 13,
+    "club_name": "OGC Nice",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 202849,
+    "short_name": "J. Vestergaard",
+    "club_team_id": 95,
+    "nationality_id": 13,
+    "club_name": "Leicester City",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 193290,
+    "short_name": "M. Braithwaite",
+    "club_team_id": 241,
+    "nationality_id": 13,
+    "club_name": "FC Barcelona",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 207791,
+    "short_name": "Y. Poulsen",
+    "club_team_id": 112172,
+    "nationality_id": 13,
+    "club_name": "RB Leipzig",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 224221,
+    "short_name": "J. Andersen",
+    "club_team_id": 1799,
+    "nationality_id": 13,
+    "club_name": "Crystal Palace",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 234678,
+    "short_name": "J. Mæhle",
+    "club_team_id": 39,
+    "nationality_id": 13,
+    "club_name": "Atalanta",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 241508,
+    "short_name": "M. Damsgaard",
+    "club_team_id": 1837,
+    "nationality_id": 13,
+    "club_name": "U.C. Sampdoria",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 199745,
+    "short_name": "E. Sviatchenko",
+    "club_team_id": 1516,
+    "nationality_id": 13,
+    "club_name": "FC Midtjylland",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 193133,
+    "short_name": "J. Larsen",
+    "club_team_id": 55,
+    "nationality_id": 13,
+    "club_name": "Udinese Calcio",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 199792,
+    "short_name": "A. Christiansen",
+    "club_team_id": 320,
+    "nationality_id": 13,
+    "club_name": "Malmö FF",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 201303,
+    "short_name": "R. Falk",
+    "club_team_id": 819,
+    "nationality_id": 13,
+    "club_name": "F.C. København",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 212253,
+    "short_name": "A. Scholz",
+    "club_team_id": 111575,
+    "nationality_id": 13,
+    "club_name": "Urawa Red Diamonds",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 212287,
+    "short_name": "A. Maxsø",
+    "club_team_id": 269,
+    "nationality_id": 13,
+    "club_name": "Brøndby IF",
+    "nationality_name": "Denmark"
+  },
+  {
+    "sofifa_id": 221639,
+    "short_name": "Mariano",
+    "club_team_id": 243,
+    "nationality_id": 207,
+    "club_name": "Real Madrid CF",
+    "nationality_name": "Dominican Republic"
+  },
+  {
+    "sofifa_id": 237942,
+    "short_name": "P. Estupiñán",
+    "club_team_id": 483,
+    "nationality_id": 57,
+    "club_name": "Villarreal CF",
+    "nationality_name": "Ecuador"
+  },
+  {
+    "sofifa_id": 175254,
+    "short_name": "F. Caicedo",
+    "club_team_id": 110556,
+    "nationality_id": 57,
+    "club_name": "Genoa",
+    "nationality_name": "Ecuador"
+  },
+  {
+    "sofifa_id": 223053,
+    "short_name": "Á. Mena",
+    "club_team_id": 110781,
+    "nationality_id": 57,
+    "club_name": "Club León",
+    "nationality_name": "Ecuador"
+  },
+  {
+    "sofifa_id": 189454,
+    "short_name": "D. Díaz",
+    "club_team_id": 110981,
+    "nationality_id": 57,
+    "club_name": "Barcelona Sporting Club",
+    "nationality_name": "Ecuador"
+  },
+  {
+    "sofifa_id": 191164,
+    "short_name": "F. Martínez",
+    "club_team_id": 111678,
+    "nationality_id": 57,
+    "club_name": "Club Tijuana",
+    "nationality_name": "Ecuador"
+  },
+  {
+    "sofifa_id": 220295,
+    "short_name": "E. Valencia",
+    "club_team_id": 326,
+    "nationality_id": 57,
+    "club_name": "Fenerbahçe SK",
+    "nationality_name": "Ecuador"
+  },
+  {
+    "sofifa_id": 209331,
+    "short_name": "M. Salah",
+    "club_team_id": 9,
+    "nationality_id": 111,
+    "club_name": "Liverpool",
+    "nationality_name": "Egypt"
+  },
+  {
+    "sofifa_id": 211454,
+    "short_name": "M. Elneny",
+    "club_team_id": 1,
+    "nationality_id": 111,
+    "club_name": "Arsenal",
+    "nationality_name": "Egypt"
+  },
+  {
+    "sofifa_id": 210648,
+    "short_name": "A. Hegazi",
+    "club_team_id": 607,
+    "nationality_id": 111,
+    "club_name": "Al Ittihad",
+    "nationality_name": "Egypt"
+  },
+  {
+    "sofifa_id": 226078,
+    "short_name": "Trezeguet",
+    "club_team_id": 2,
+    "nationality_id": 111,
+    "club_name": "Aston Villa",
+    "nationality_name": "Egypt"
+  },
+  {
+    "sofifa_id": 202126,
+    "short_name": "H. Kane",
+    "club_team_id": 18,
+    "nationality_id": 14,
+    "club_name": "Tottenham Hotspur",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 202652,
+    "short_name": "R. Sterling",
+    "club_team_id": 10,
+    "nationality_id": 14,
+    "club_name": "Manchester City",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 231281,
+    "short_name": "T. Alexander-Arnold",
+    "club_team_id": 9,
+    "nationality_id": 14,
+    "club_name": "Liverpool",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 233049,
+    "short_name": "J. Sancho",
+    "club_team_id": 11,
+    "nationality_id": 14,
+    "club_name": "Manchester United",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 208830,
+    "short_name": "J. Vardy",
+    "club_team_id": 95,
+    "nationality_id": 14,
+    "club_name": "Leicester City",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 188377,
+    "short_name": "K. Walker",
+    "club_team_id": 10,
+    "nationality_id": 14,
+    "club_name": "Manchester City",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 231677,
+    "short_name": "M. Rashford",
+    "club_team_id": 11,
+    "nationality_id": 14,
+    "club_name": "Manchester United",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 183711,
+    "short_name": "J. Henderson",
+    "club_team_id": 9,
+    "nationality_id": 14,
+    "club_name": "Liverpool",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 186345,
+    "short_name": "K. Trippier",
+    "club_team_id": 240,
+    "nationality_id": 14,
+    "club_name": "Atlético de Madrid",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 203263,
+    "short_name": "H. Maguire",
+    "club_team_id": 11,
+    "nationality_id": 14,
+    "club_name": "Manchester United",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 205988,
+    "short_name": "L. Shaw",
+    "club_team_id": 11,
+    "nationality_id": 14,
+    "club_name": "Manchester United",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 206517,
+    "short_name": "J. Grealish",
+    "club_team_id": 10,
+    "nationality_id": 14,
+    "club_name": "Manchester City",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 237692,
+    "short_name": "P. Foden",
+    "club_team_id": 10,
+    "nationality_id": 14,
+    "club_name": "Manchester City",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 203574,
+    "short_name": "J. Stones",
+    "club_team_id": 10,
+    "nationality_id": 14,
+    "club_name": "Manchester City",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 203841,
+    "short_name": "N. Pope",
+    "club_team_id": 1796,
+    "nationality_id": 14,
+    "club_name": "Burnley",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 204935,
+    "short_name": "J. Pickford",
+    "club_team_id": 7,
+    "nationality_id": 14,
+    "club_name": "Everton",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 229880,
+    "short_name": "A. Wan-Bissaka",
+    "club_team_id": 11,
+    "nationality_id": 14,
+    "club_name": "Manchester United",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 233064,
+    "short_name": "M. Mount",
+    "club_team_id": 5,
+    "nationality_id": 14,
+    "club_name": "Chelsea",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 220697,
+    "short_name": "J. Maddison",
+    "club_team_id": 95,
+    "nationality_id": 14,
+    "club_name": "Leicester City",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 225100,
+    "short_name": "J. Gomez",
+    "club_team_id": 9,
+    "nationality_id": 14,
+    "club_name": "Liverpool",
+    "nationality_name": "England"
+  },
+  {
+    "sofifa_id": 200054,
+    "short_name": "Pedro Obiang",
+    "club_team_id": 111974,
+    "nationality_id": 112,
+    "club_name": "U.S. Sassuolo Calcio",
+    "nationality_name": "Equatorial Guinea"
+  },
+  {
+    "sofifa_id": 190941,
+    "short_name": "L. Hrádecký",
+    "club_team_id": 32,
+    "nationality_id": 17,
+    "club_name": "Bayer 04 Leverkusen",
+    "nationality_name": "Finland"
+  },
+  {
+    "sofifa_id": 190362,
+    "short_name": "T. Pukki",
+    "club_team_id": 1792,
+    "nationality_id": 17,
+    "club_name": "Norwich City",
+    "nationality_name": "Finland"
+  },
+  {
+    "sofifa_id": 205895,
+    "short_name": "A. Ring",
+    "club_team_id": 114161,
+    "nationality_id": 17,
+    "club_name": "Austin FC",
+    "nationality_name": "Finland"
+  },
+  {
+    "sofifa_id": 213654,
+    "short_name": "G. Kamara",
+    "club_team_id": 86,
+    "nationality_id": 17,
+    "club_name": "Rangers FC",
+    "nationality_name": "Finland"
+  },
+  {
+    "sofifa_id": 231747,
+    "short_name": "K. Mbappé",
+    "club_team_id": 73,
+    "nationality_id": 18,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 215914,
+    "short_name": "N. Kanté",
+    "club_team_id": 5,
+    "nationality_id": 18,
+    "club_name": "Chelsea",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 165153,
+    "short_name": "K. Benzema",
+    "club_team_id": 243,
+    "nationality_id": 18,
+    "club_name": "Real Madrid CF",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 167948,
+    "short_name": "H. Lloris",
+    "club_team_id": 18,
+    "nationality_id": 18,
+    "club_name": "Tottenham Hotspur",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 195864,
+    "short_name": "P. Pogba",
+    "club_team_id": 11,
+    "nationality_id": 18,
+    "club_name": "Manchester United",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 201535,
+    "short_name": "R. Varane",
+    "club_team_id": 11,
+    "nationality_id": 18,
+    "club_name": "Manchester United",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 213345,
+    "short_name": "K. Coman",
+    "club_team_id": 21,
+    "nationality_id": 18,
+    "club_name": "FC Bayern München",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 194765,
+    "short_name": "A. Griezmann",
+    "club_team_id": 240,
+    "nationality_id": 18,
+    "club_name": "Atlético de Madrid",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 199451,
+    "short_name": "W. Ben Yedder",
+    "club_team_id": 69,
+    "nationality_id": 18,
+    "club_name": "AS Monaco",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 200458,
+    "short_name": "L. Digne",
+    "club_team_id": 7,
+    "nationality_id": 18,
+    "club_name": "Everton",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 215698,
+    "short_name": "M. Maignan",
+    "club_team_id": 47,
+    "nationality_id": 18,
+    "club_name": "AC Milan",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 216594,
+    "short_name": "N. Fekir",
+    "club_team_id": 449,
+    "nationality_id": 18,
+    "club_name": "Real Betis Balompié",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 232656,
+    "short_name": "T. Hernández",
+    "club_team_id": 47,
+    "nationality_id": 18,
+    "club_name": "AC Milan",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 213565,
+    "short_name": "T. Lemar",
+    "club_team_id": 240,
+    "nationality_id": 18,
+    "club_name": "Atlético de Madrid",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 220814,
+    "short_name": "L. Hernández",
+    "club_team_id": 21,
+    "nationality_id": 18,
+    "club_name": "FC Bayern München",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 225850,
+    "short_name": "P. Kimpembe",
+    "club_team_id": 73,
+    "nationality_id": 18,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 228618,
+    "short_name": "F. Mendy",
+    "club_team_id": 243,
+    "nationality_id": 18,
+    "club_name": "Real Madrid CF",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 231443,
+    "short_name": "O. Dembélé",
+    "club_team_id": 241,
+    "nationality_id": 18,
+    "club_name": "FC Barcelona",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 241486,
+    "short_name": "J. Koundé",
+    "club_team_id": 481,
+    "nationality_id": 18,
+    "club_name": "Sevilla FC",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 193105,
+    "short_name": "A. Areola",
+    "club_team_id": 19,
+    "nationality_id": 18,
+    "club_name": "West Ham United",
+    "nationality_name": "France"
+  },
+  {
+    "sofifa_id": 188567,
+    "short_name": "P. Aubameyang",
+    "club_team_id": 1,
+    "nationality_id": 115,
+    "club_name": "Arsenal",
+    "nationality_name": "Gabon"
+  },
+  {
+    "sofifa_id": 225951,
+    "short_name": "D. Bouanga",
+    "club_team_id": 1819,
+    "nationality_id": 115,
+    "club_name": "AS Saint-Étienne",
+    "nationality_name": "Gabon"
+  },
+  {
+    "sofifa_id": 212811,
+    "short_name": "M. Lemina",
+    "club_team_id": 72,
+    "nationality_id": 115,
+    "club_name": "OGC Nice",
+    "nationality_name": "Gabon"
+  },
+  {
+    "sofifa_id": 242374,
+    "short_name": "M. Barrow",
+    "club_team_id": 189,
+    "nationality_id": 116,
+    "club_name": "Bologna",
+    "nationality_name": "Gambia"
+  },
+  {
+    "sofifa_id": 190734,
+    "short_name": "G. Makaridze",
+    "club_team_id": 1861,
+    "nationality_id": 20,
+    "club_name": "Unión Deportiva Almería",
+    "nationality_name": "Georgia"
+  },
+  {
+    "sofifa_id": 262621,
+    "short_name": "G. Mamardashvili",
+    "club_team_id": 461,
+    "nationality_id": 20,
+    "club_name": "Valencia CF",
+    "nationality_name": "Georgia"
+  },
+  {
+    "sofifa_id": 167495,
+    "short_name": "M. Neuer",
+    "club_team_id": 21,
+    "nationality_id": 21,
+    "club_name": "FC Bayern München",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 192448,
+    "short_name": "M. ter Stegen",
+    "club_team_id": 241,
+    "nationality_id": 21,
+    "club_name": "FC Barcelona",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 212622,
+    "short_name": "J. Kimmich",
+    "club_team_id": 21,
+    "nationality_id": 21,
+    "club_name": "FC Bayern München",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 182521,
+    "short_name": "T. Kroos",
+    "club_team_id": 243,
+    "nationality_id": 21,
+    "club_name": "Real Madrid CF",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 189596,
+    "short_name": "T. Müller",
+    "club_team_id": 21,
+    "nationality_id": 21,
+    "club_name": "FC Bayern München",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 209658,
+    "short_name": "L. Goretzka",
+    "club_team_id": 21,
+    "nationality_id": 21,
+    "club_name": "FC Bayern München",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 178603,
+    "short_name": "M. Hummels",
+    "club_team_id": 22,
+    "nationality_id": 21,
+    "club_name": "Borussia Dortmund",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 186942,
+    "short_name": "İ. Gündoğan",
+    "club_team_id": 10,
+    "nationality_id": 21,
+    "club_name": "Manchester City",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 188350,
+    "short_name": "M. Reus",
+    "club_team_id": 22,
+    "nationality_id": 21,
+    "club_name": "Borussia Dortmund",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 206113,
+    "short_name": "S. Gnabry",
+    "club_team_id": 21,
+    "nationality_id": 21,
+    "club_name": "FC Bayern München",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 207862,
+    "short_name": "M. Ginter",
+    "club_team_id": 23,
+    "nationality_id": 21,
+    "club_name": "Borussia Mönchengladbach",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 212188,
+    "short_name": "T. Werner",
+    "club_team_id": 5,
+    "nationality_id": 21,
+    "club_name": "Chelsea",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 222492,
+    "short_name": "L. Sané",
+    "club_team_id": 21,
+    "nationality_id": 21,
+    "club_name": "FC Bayern München",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 235790,
+    "short_name": "K. Havertz",
+    "club_team_id": 5,
+    "nationality_id": 21,
+    "club_name": "Chelsea",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 183907,
+    "short_name": "J. Boateng",
+    "club_team_id": 66,
+    "nationality_id": 21,
+    "club_name": "Olympique Lyonnais",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 192563,
+    "short_name": "B. Leno",
+    "club_team_id": 1,
+    "nationality_id": 21,
+    "club_name": "Arsenal",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 200610,
+    "short_name": "K. Volland",
+    "club_team_id": 69,
+    "nationality_id": 21,
+    "club_name": "AS Monaco",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 205452,
+    "short_name": "A. Rüdiger",
+    "club_team_id": 5,
+    "nationality_id": 21,
+    "club_name": "Chelsea",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 223697,
+    "short_name": "R. Gosens",
+    "club_team_id": 39,
+    "nationality_id": 21,
+    "club_name": "Atalanta",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 187072,
+    "short_name": "L. Stindl",
+    "club_team_id": 23,
+    "nationality_id": 21,
+    "club_name": "Borussia Mönchengladbach",
+    "nationality_name": "Germany"
+  },
+  {
+    "sofifa_id": 209989,
+    "short_name": "T. Partey",
+    "club_team_id": 1,
+    "nationality_id": 117,
+    "club_name": "Arsenal",
+    "nationality_name": "Ghana"
+  },
+  {
+    "sofifa_id": 173909,
+    "short_name": "K. Boateng",
+    "club_team_id": 166,
+    "nationality_id": 117,
+    "club_name": "Hertha BSC",
+    "nationality_name": "Ghana"
+  },
+  {
+    "sofifa_id": 213013,
+    "short_name": "F. Acheampong",
+    "club_team_id": 111773,
+    "nationality_id": 117,
+    "club_name": "Shenzhen FC",
+    "nationality_name": "Ghana"
+  },
+  {
+    "sofifa_id": 245155,
+    "short_name": "M. Kudus",
+    "club_team_id": 245,
+    "nationality_id": 117,
+    "club_name": "Ajax",
+    "nationality_name": "Ghana"
+  },
+  {
+    "sofifa_id": 212219,
+    "short_name": "A. Djiku",
+    "club_team_id": 76,
+    "nationality_id": 117,
+    "club_name": "RC Strasbourg Alsace",
+    "nationality_name": "Ghana"
+  },
+  {
+    "sofifa_id": 212883,
+    "short_name": "D. Amartey",
+    "club_team_id": 95,
+    "nationality_id": 117,
+    "club_name": "Leicester City",
+    "nationality_name": "Ghana"
+  },
+  {
+    "sofifa_id": 224540,
+    "short_name": "E. Boateng",
+    "club_team_id": 112378,
+    "nationality_id": 117,
+    "club_name": "Dalian Professional Football Club",
+    "nationality_name": "Ghana"
+  },
+  {
+    "sofifa_id": 244915,
+    "short_name": "M. Salisu",
+    "club_team_id": 17,
+    "nationality_id": 117,
+    "club_name": "Southampton",
+    "nationality_name": "Ghana"
+  },
+  {
+    "sofifa_id": 197756,
+    "short_name": "J. Ayew",
+    "club_team_id": 1799,
+    "nationality_id": 117,
+    "club_name": "Crystal Palace",
+    "nationality_name": "Ghana"
+  },
+  {
+    "sofifa_id": 200759,
+    "short_name": "J. Schlupp",
+    "club_team_id": 1799,
+    "nationality_id": 117,
+    "club_name": "Crystal Palace",
+    "nationality_name": "Ghana"
+  },
+  {
+    "sofifa_id": 239795,
+    "short_name": "C. Ekuban",
+    "club_team_id": 110556,
+    "nationality_id": 117,
+    "club_name": "Genoa",
+    "nationality_name": "Ghana"
+  },
+  {
+    "sofifa_id": 192774,
+    "short_name": "K. Manolas",
+    "club_team_id": 48,
+    "nationality_id": 22,
+    "club_name": "Napoli",
+    "nationality_name": "Greece"
+  },
+  {
+    "sofifa_id": 211990,
+    "short_name": "O. Vlachodimos",
+    "club_team_id": 234,
+    "nationality_id": 22,
+    "club_name": "SL Benfica",
+    "nationality_name": "Greece"
+  },
+  {
+    "sofifa_id": 203980,
+    "short_name": "K. Fortounis",
+    "club_team_id": 280,
+    "nationality_id": 22,
+    "club_name": "Olympiacos CFP",
+    "nationality_name": "Greece"
+  },
+  {
+    "sofifa_id": 172879,
+    "short_name": "Sokratis",
+    "club_team_id": 280,
+    "nationality_id": 22,
+    "club_name": "Olympiacos CFP",
+    "nationality_name": "Greece"
+  },
+  {
+    "sofifa_id": 208250,
+    "short_name": "A. Bakasetas",
+    "club_team_id": 436,
+    "nationality_id": 22,
+    "club_name": "Trabzonspor",
+    "nationality_name": "Greece"
+  },
+  {
+    "sofifa_id": 168621,
+    "short_name": "Zeca",
+    "club_team_id": 819,
+    "nationality_id": 22,
+    "club_name": "F.C. København",
+    "nationality_name": "Greece"
+  },
+  {
+    "sofifa_id": 208053,
+    "short_name": "D. Pelkas",
+    "club_team_id": 326,
+    "nationality_id": 22,
+    "club_name": "Fenerbahçe SK",
+    "nationality_name": "Greece"
+  },
+  {
+    "sofifa_id": 208224,
+    "short_name": "P. Mantalos",
+    "club_team_id": 278,
+    "nationality_id": 22,
+    "club_name": "AEK Athens",
+    "nationality_name": "Greece"
+  },
+  {
+    "sofifa_id": 246708,
+    "short_name": "G. Masouras",
+    "club_team_id": 280,
+    "nationality_id": 22,
+    "club_name": "Olympiacos CFP",
+    "nationality_name": "Greece"
+  },
+  {
+    "sofifa_id": 207683,
+    "short_name": "S. Dioudis",
+    "club_team_id": 1884,
+    "nationality_id": 22,
+    "club_name": "Panathinaikos FC",
+    "nationality_name": "Greece"
+  },
+  {
+    "sofifa_id": 223922,
+    "short_name": "A. Bouchalakis",
+    "club_team_id": 280,
+    "nationality_id": 22,
+    "club_name": "Olympiacos CFP",
+    "nationality_name": "Greece"
+  },
+  {
+    "sofifa_id": 220971,
+    "short_name": "N. Keïta",
+    "club_team_id": 9,
+    "nationality_id": 118,
+    "club_name": "Liverpool",
+    "nationality_name": "Guinea"
+  },
+  {
+    "sofifa_id": 237520,
+    "short_name": "M. Camara",
+    "club_team_id": 280,
+    "nationality_id": 118,
+    "club_name": "Olympiacos CFP",
+    "nationality_name": "Guinea"
+  },
+  {
+    "sofifa_id": 230613,
+    "short_name": "A. Diawara",
+    "club_team_id": 52,
+    "nationality_id": 118,
+    "club_name": "Roma",
+    "nationality_name": "Guinea"
+  },
+  {
+    "sofifa_id": 224218,
+    "short_name": "F. Kamano",
+    "club_team_id": 100765,
+    "nationality_id": 118,
+    "club_name": "FC Lokomotiv Moscow",
+    "nationality_name": "Guinea"
+  },
+  {
+    "sofifa_id": 237960,
+    "short_name": "Mama Baldé",
+    "club_team_id": 294,
+    "nationality_id": 119,
+    "club_name": "ESTAC Troyes",
+    "nationality_name": "Guinea Bissau"
+  },
+  {
+    "sofifa_id": 236245,
+    "short_name": "A. Elis",
+    "club_team_id": 59,
+    "nationality_id": 81,
+    "club_name": "FC Girondins de Bordeaux",
+    "nationality_name": "Honduras"
+  },
+  {
+    "sofifa_id": 185122,
+    "short_name": "P. Gulácsi",
+    "club_team_id": 112172,
+    "nationality_id": 23,
+    "club_name": "RB Leipzig",
+    "nationality_name": "Hungary"
+  },
+  {
+    "sofifa_id": 204638,
+    "short_name": "W. Orban",
+    "club_team_id": 112172,
+    "nationality_id": 23,
+    "club_name": "RB Leipzig",
+    "nationality_name": "Hungary"
+  },
+  {
+    "sofifa_id": 236772,
+    "short_name": "D. Szoboszlai",
+    "club_team_id": 112172,
+    "nationality_id": 23,
+    "club_name": "RB Leipzig",
+    "nationality_name": "Hungary"
+  },
+  {
+    "sofifa_id": 234171,
+    "short_name": "R. Sallai",
+    "club_team_id": 25,
+    "nationality_id": 23,
+    "club_name": "Sport-Club Freiburg",
+    "nationality_name": "Hungary"
+  },
+  {
+    "sofifa_id": 253170,
+    "short_name": "A. Szalai",
+    "club_team_id": 326,
+    "nationality_id": 23,
+    "club_name": "Fenerbahçe SK",
+    "nationality_name": "Hungary"
+  },
+  {
+    "sofifa_id": 184484,
+    "short_name": "G. Sigurðsson",
+    "club_team_id": 7,
+    "nationality_id": 24,
+    "club_name": "Everton",
+    "nationality_name": "Iceland"
+  },
+  {
+    "sofifa_id": 191076,
+    "short_name": "J. Guðmundsson",
+    "club_team_id": 1796,
+    "nationality_id": 24,
+    "club_name": "Burnley",
+    "nationality_name": "Iceland"
+  },
+  {
+    "sofifa_id": 221422,
+    "short_name": "S. Ingason",
+    "club_team_id": 393,
+    "nationality_id": 24,
+    "club_name": "PAOK",
+    "nationality_name": "Iceland"
+  },
+  {
+    "sofifa_id": 241788,
+    "short_name": "M. Taremi",
+    "club_team_id": 236,
+    "nationality_id": 161,
+    "club_name": "FC Porto",
+    "nationality_name": "Iran"
+  },
+  {
+    "sofifa_id": 204399,
+    "short_name": "E. Zahavi",
+    "club_team_id": 247,
+    "nationality_id": 26,
+    "club_name": "PSV",
+    "nationality_name": "Israel"
+  },
+  {
+    "sofifa_id": 251412,
+    "short_name": "S. Weissman",
+    "club_team_id": 462,
+    "nationality_id": 26,
+    "club_name": "Real Valladolid CF",
+    "nationality_name": "Israel"
+  },
+  {
+    "sofifa_id": 208498,
+    "short_name": "M. Dabbur",
+    "club_team_id": 10029,
+    "nationality_id": 26,
+    "club_name": "TSG Hoffenheim",
+    "nationality_name": "Israel"
+  },
+  {
+    "sofifa_id": 246791,
+    "short_name": "M. Solomon",
+    "club_team_id": 101059,
+    "nationality_id": 26,
+    "club_name": "Shakhtar Donetsk",
+    "nationality_name": "Israel"
+  },
+  {
+    "sofifa_id": 164878,
+    "short_name": "L. Refaelov",
+    "club_team_id": 229,
+    "nationality_id": 26,
+    "club_name": "RSC Anderlecht",
+    "nationality_name": "Israel"
+  },
+  {
+    "sofifa_id": 230621,
+    "short_name": "G. Donnarumma",
+    "club_team_id": 73,
+    "nationality_id": 27,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 192387,
+    "short_name": "C. Immobile",
+    "club_team_id": 46,
+    "nationality_id": 27,
+    "club_name": "Lazio",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 199556,
+    "short_name": "M. Verratti",
+    "club_team_id": 73,
+    "nationality_id": 27,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 138956,
+    "short_name": "G. Chiellini",
+    "club_team_id": 45,
+    "nationality_id": 27,
+    "club_name": "Juventus",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 198219,
+    "short_name": "L. Insigne",
+    "club_team_id": 48,
+    "nationality_id": 27,
+    "club_name": "Napoli",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 184344,
+    "short_name": "L. Bonucci",
+    "club_team_id": 45,
+    "nationality_id": 27,
+    "club_name": "Juventus",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 205498,
+    "short_name": "Jorginho",
+    "club_team_id": 5,
+    "nationality_id": 27,
+    "club_name": "Chelsea",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 224232,
+    "short_name": "N. Barella",
+    "club_team_id": 44,
+    "nationality_id": 27,
+    "club_name": "Inter",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 199845,
+    "short_name": "F. Acerbi",
+    "club_team_id": 46,
+    "nationality_id": 27,
+    "club_name": "Lazio",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 202884,
+    "short_name": "L. Spinazzola",
+    "club_team_id": 52,
+    "nationality_id": 27,
+    "club_name": "Roma",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 235805,
+    "short_name": "F. Chiesa",
+    "club_team_id": 45,
+    "nationality_id": 27,
+    "club_name": "Juventus",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 168435,
+    "short_name": "S. Sirigu",
+    "club_team_id": 110556,
+    "nationality_id": 27,
+    "club_name": "Genoa",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 210413,
+    "short_name": "A. Romagnoli",
+    "club_team_id": 47,
+    "nationality_id": 27,
+    "club_name": "AC Milan",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 210935,
+    "short_name": "D. Berardi",
+    "club_team_id": 111974,
+    "nationality_id": 27,
+    "club_name": "U.S. Sassuolo Calcio",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 211515,
+    "short_name": "P. Gollini",
+    "club_team_id": 18,
+    "nationality_id": 27,
+    "club_name": "Tottenham Hotspur",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 222077,
+    "short_name": "M. Locatelli",
+    "club_team_id": 45,
+    "nationality_id": 27,
+    "club_name": "Juventus",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 163489,
+    "short_name": "A. Consigli",
+    "club_team_id": 111974,
+    "nationality_id": 27,
+    "club_name": "U.S. Sassuolo Calcio",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 203551,
+    "short_name": "A. Florenzi",
+    "club_team_id": 47,
+    "nationality_id": 27,
+    "club_name": "AC Milan",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 205659,
+    "short_name": "A. Cragno",
+    "club_team_id": 1842,
+    "nationality_id": 27,
+    "club_name": "Cagliari",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 208596,
+    "short_name": "A. Belotti",
+    "club_team_id": 54,
+    "nationality_id": 27,
+    "club_name": "Torino F.C.",
+    "nationality_name": "Italy"
+  },
+  {
+    "sofifa_id": 229906,
+    "short_name": "L. Bailey",
+    "club_team_id": 2,
+    "nationality_id": 82,
+    "club_name": "Aston Villa",
+    "nationality_name": "Jamaica"
+  },
+  {
+    "sofifa_id": 190717,
+    "short_name": "M. Antonio",
+    "club_team_id": 19,
+    "nationality_id": 82,
+    "club_name": "West Ham United",
+    "nationality_name": "Jamaica"
+  },
+  {
+    "sofifa_id": 216939,
+    "short_name": "A. Blake",
+    "club_team_id": 112134,
+    "nationality_id": 82,
+    "club_name": "Philadelphia Union",
+    "nationality_name": "Jamaica"
+  },
+  {
+    "sofifa_id": 232730,
+    "short_name": "D. Kamada",
+    "club_team_id": 1824,
+    "nationality_id": 163,
+    "club_name": "Eintracht Frankfurt",
+    "nationality_name": "Japan"
+  },
+  {
+    "sofifa_id": 232487,
+    "short_name": "W. Endo",
+    "club_team_id": 36,
+    "nationality_id": 163,
+    "club_name": "VfB Stuttgart",
+    "nationality_name": "Japan"
+  },
+  {
+    "sofifa_id": 181098,
+    "short_name": "M. Hasebe",
+    "club_team_id": 1824,
+    "nationality_id": 163,
+    "club_name": "Eintracht Frankfurt",
+    "nationality_name": "Japan"
+  },
+  {
+    "sofifa_id": 232862,
+    "short_name": "S. Nakajima",
+    "club_team_id": 10031,
+    "nationality_id": 163,
+    "club_name": "Portimonense SC",
+    "nationality_name": "Japan"
+  },
+  {
+    "sofifa_id": 232905,
+    "short_name": "J. Ito",
+    "club_team_id": 673,
+    "nationality_id": 163,
+    "club_name": "KRC Genk",
+    "nationality_name": "Japan"
+  },
+  {
+    "sofifa_id": 232639,
+    "short_name": "R. Doan",
+    "club_team_id": 247,
+    "nationality_id": 163,
+    "club_name": "PSV",
+    "nationality_name": "Japan"
+  },
+  {
+    "sofifa_id": 205114,
+    "short_name": "T. Inui",
+    "club_team_id": 101148,
+    "nationality_id": 163,
+    "club_name": "Cerezo Osaka",
+    "nationality_name": "Japan"
+  },
+  {
+    "sofifa_id": 208520,
+    "short_name": "H. Sakai",
+    "club_team_id": 111575,
+    "nationality_id": 163,
+    "club_name": "Urawa Red Diamonds",
+    "nationality_name": "Japan"
+  },
+  {
+    "sofifa_id": 226627,
+    "short_name": "T. Minamino",
+    "club_team_id": 9,
+    "nationality_id": 163,
+    "club_name": "Liverpool",
+    "nationality_name": "Japan"
+  },
+  {
+    "sofifa_id": 232938,
+    "short_name": "T. Tomiyasu",
+    "club_team_id": 1,
+    "nationality_id": 163,
+    "club_name": "Arsenal",
+    "nationality_name": "Japan"
+  },
+  {
+    "sofifa_id": 237681,
+    "short_name": "T. Kubo",
+    "club_team_id": 453,
+    "nationality_id": 163,
+    "club_name": "RCD Mallorca",
+    "nationality_name": "Japan"
+  },
+  {
+    "sofifa_id": 188942,
+    "short_name": "V. Wanyama",
+    "club_team_id": 111139,
+    "nationality_id": 120,
+    "club_name": "Club de Foot Montréal",
+    "nationality_name": "Kenya"
+  },
+  {
+    "sofifa_id": 200104,
+    "short_name": "H. Son",
+    "club_team_id": 18,
+    "nationality_id": 167,
+    "club_name": "Tottenham Hotspur",
+    "nationality_name": "Korea Republic"
+  },
+  {
+    "sofifa_id": 212260,
+    "short_name": "Hwang Ui Jo",
+    "club_team_id": 59,
+    "nationality_id": 167,
+    "club_name": "FC Girondins de Bordeaux",
+    "nationality_name": "Korea Republic"
+  },
+  {
+    "sofifa_id": 212432,
+    "short_name": "Jo Hyeon Woo",
+    "club_team_id": 1473,
+    "nationality_id": 167,
+    "club_name": "Ulsan Hyundai FC",
+    "nationality_name": "Korea Republic"
+  },
+  {
+    "sofifa_id": 221671,
+    "short_name": "Lee Jae Sung",
+    "club_team_id": 169,
+    "nationality_id": 167,
+    "club_name": "1. FSV Mainz 05",
+    "nationality_name": "Korea Republic"
+  },
+  {
+    "sofifa_id": 226380,
+    "short_name": "Hwang Hee Chan",
+    "club_team_id": 110,
+    "nationality_id": 167,
+    "club_name": "Wolverhampton Wanderers",
+    "nationality_name": "Korea Republic"
+  },
+  {
+    "sofifa_id": 229167,
+    "short_name": "M. Rashica",
+    "club_team_id": 1792,
+    "nationality_id": 219,
+    "club_name": "Norwich City",
+    "nationality_name": "Kosovo"
+  },
+  {
+    "sofifa_id": 244263,
+    "short_name": "A. Rrahmani",
+    "club_team_id": 48,
+    "nationality_id": 219,
+    "club_name": "Napoli",
+    "nationality_name": "Kosovo"
+  },
+  {
+    "sofifa_id": 221919,
+    "short_name": "A. Zeneli",
+    "club_team_id": 379,
+    "nationality_id": 219,
+    "club_name": "Stade de Reims",
+    "nationality_name": "Kosovo"
+  },
+  {
+    "sofifa_id": 223710,
+    "short_name": "V. Muriqi",
+    "club_team_id": 46,
+    "nationality_id": 219,
+    "club_name": "Lazio",
+    "nationality_name": "Kosovo"
+  },
+  {
+    "sofifa_id": 254909,
+    "short_name": "O. Dorley",
+    "club_team_id": 266,
+    "nationality_id": 122,
+    "club_name": "SK Slavia Praha",
+    "nationality_name": "Liberia"
+  },
+  {
+    "sofifa_id": 252308,
+    "short_name": "A. Musrati",
+    "club_team_id": 1896,
+    "nationality_id": 123,
+    "club_name": "SC Braga",
+    "nationality_name": "Libya"
+  },
+  {
+    "sofifa_id": 219789,
+    "short_name": "H. Traoré",
+    "club_team_id": 74,
+    "nationality_id": 126,
+    "club_name": "Stade Rennais FC",
+    "nationality_name": "Mali"
+  },
+  {
+    "sofifa_id": 236480,
+    "short_name": "Y. Bissouma",
+    "club_team_id": 1808,
+    "nationality_id": 126,
+    "club_name": "Brighton & Hove Albion",
+    "nationality_name": "Mali"
+  },
+  {
+    "sofifa_id": 238463,
+    "short_name": "A. Haidara",
+    "club_team_id": 112172,
+    "nationality_id": 126,
+    "club_name": "RB Leipzig",
+    "nationality_name": "Mali"
+  },
+  {
+    "sofifa_id": 227536,
+    "short_name": "M. Marega",
+    "club_team_id": 605,
+    "nationality_id": 126,
+    "club_name": "Al Hilal",
+    "nationality_name": "Mali"
+  },
+  {
+    "sofifa_id": 235424,
+    "short_name": "D. Samassékou",
+    "club_team_id": 10029,
+    "nationality_id": 126,
+    "club_name": "TSG Hoffenheim",
+    "nationality_name": "Mali"
+  },
+  {
+    "sofifa_id": 242619,
+    "short_name": "C. Doucouré",
+    "club_team_id": 64,
+    "nationality_id": 126,
+    "club_name": "Racing Club de Lens",
+    "nationality_name": "Mali"
+  },
+  {
+    "sofifa_id": 169416,
+    "short_name": "C. Vela",
+    "club_team_id": 112996,
+    "nationality_id": 83,
+    "club_name": "Los Angeles FC",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 204838,
+    "short_name": "R. Jiménez",
+    "club_team_id": 110,
+    "nationality_id": 83,
+    "club_name": "Wolverhampton Wanderers",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 193165,
+    "short_name": "J. Corona",
+    "club_team_id": 236,
+    "nationality_id": 83,
+    "club_name": "FC Porto",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 156519,
+    "short_name": "H. Herrera",
+    "club_team_id": 240,
+    "nationality_id": 83,
+    "club_name": "Atlético de Madrid",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 221992,
+    "short_name": "H. Lozano",
+    "club_team_id": 48,
+    "nationality_id": 83,
+    "club_name": "Napoli",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 140233,
+    "short_name": "G. Ochoa",
+    "club_team_id": 1879,
+    "nationality_id": 83,
+    "club_name": "Club América",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 156433,
+    "short_name": "A. Talavera",
+    "club_team_id": 1881,
+    "nationality_id": 83,
+    "club_name": "Club Universidad Nacional",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 171897,
+    "short_name": "A. Guardado",
+    "club_team_id": 449,
+    "nationality_id": 83,
+    "club_name": "Real Betis Balompié",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 178224,
+    "short_name": "J. Hernández",
+    "club_team_id": 697,
+    "nationality_id": 83,
+    "club_name": "LA Galaxy",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 192045,
+    "short_name": "L. Rodríguez",
+    "club_team_id": 1970,
+    "nationality_id": 83,
+    "club_name": "Tigres U.A.N.L.",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 170370,
+    "short_name": "J. dos Santos",
+    "club_team_id": 697,
+    "nationality_id": 83,
+    "club_name": "LA Galaxy",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 173432,
+    "short_name": "H. Moreno",
+    "club_team_id": 1032,
+    "nationality_id": 83,
+    "club_name": "CF Monterrey",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 184703,
+    "short_name": "L. Montes",
+    "club_team_id": 110781,
+    "nationality_id": 83,
+    "club_name": "Club León",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 198140,
+    "short_name": "R. Funes Mori",
+    "club_team_id": 1032,
+    "nationality_id": 83,
+    "club_name": "CF Monterrey",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 224574,
+    "short_name": "O. Pineda",
+    "club_team_id": 1878,
+    "nationality_id": 83,
+    "club_name": "Cruz Azul",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 235844,
+    "short_name": "E. Álvarez",
+    "club_team_id": 245,
+    "nationality_id": 83,
+    "club_name": "Ajax",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 243015,
+    "short_name": "L. Romo",
+    "club_team_id": 1878,
+    "nationality_id": 83,
+    "club_name": "Cruz Azul",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 186098,
+    "short_name": "R. Cota",
+    "club_team_id": 110781,
+    "nationality_id": 83,
+    "club_name": "Club León",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 192041,
+    "short_name": "N. Araújo",
+    "club_team_id": 450,
+    "nationality_id": 83,
+    "club_name": "RC Celta de Vigo",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 224151,
+    "short_name": "H. Martín",
+    "club_team_id": 1879,
+    "nationality_id": 83,
+    "club_name": "Club América",
+    "nationality_name": "Mexico"
+  },
+  {
+    "sofifa_id": 204639,
+    "short_name": "S. Savić",
+    "club_team_id": 240,
+    "nationality_id": 15,
+    "club_name": "Atlético de Madrid",
+    "nationality_name": "Montenegro"
+  },
+  {
+    "sofifa_id": 224031,
+    "short_name": "A. Marušić",
+    "club_team_id": 46,
+    "nationality_id": 15,
+    "club_name": "Lazio",
+    "nationality_name": "Montenegro"
+  },
+  {
+    "sofifa_id": 181820,
+    "short_name": "S. Jovetić",
+    "club_team_id": 166,
+    "nationality_id": 15,
+    "club_name": "Hertha BSC",
+    "nationality_name": "Montenegro"
+  },
+  {
+    "sofifa_id": 221016,
+    "short_name": "N. Vukčević",
+    "club_team_id": 1853,
+    "nationality_id": 15,
+    "club_name": "Levante Unión Deportiva",
+    "nationality_name": "Montenegro"
+  },
+  {
+    "sofifa_id": 221430,
+    "short_name": "U. Đurđević",
+    "club_team_id": 459,
+    "nationality_id": 15,
+    "club_name": "Real Sporting de Gijón",
+    "nationality_name": "Montenegro"
+  },
+  {
+    "sofifa_id": 235212,
+    "short_name": "A. Hakimi",
+    "club_team_id": 73,
+    "nationality_id": 129,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 208670,
+    "short_name": "H. Ziyech",
+    "club_team_id": 5,
+    "nationality_id": 129,
+    "club_name": "Chelsea",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 209981,
+    "short_name": "Y. Bounou",
+    "club_team_id": 481,
+    "nationality_id": 129,
+    "club_name": "Sevilla FC",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 235410,
+    "short_name": "Y. En-Nesyri",
+    "club_team_id": 481,
+    "nationality_id": 129,
+    "club_name": "Sevilla FC",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 177509,
+    "short_name": "M. Benatia",
+    "club_team_id": 111117,
+    "nationality_id": 129,
+    "club_name": "Fatih Karagümrük S.K.",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 205705,
+    "short_name": "Z. Feddal",
+    "club_team_id": 237,
+    "nationality_id": 129,
+    "club_name": "Sporting CP",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 236401,
+    "short_name": "N. Mazraoui",
+    "club_team_id": 245,
+    "nationality_id": 129,
+    "club_name": "Ajax",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 194209,
+    "short_name": "Y. El Arabi",
+    "club_team_id": 280,
+    "nationality_id": 129,
+    "club_name": "Olympiacos CFP",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 220253,
+    "short_name": "Munir",
+    "club_team_id": 481,
+    "nationality_id": 129,
+    "club_name": "Sevilla FC",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 208295,
+    "short_name": "R. Saïss",
+    "club_team_id": 110,
+    "nationality_id": 129,
+    "club_name": "Wolverhampton Wanderers",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 179605,
+    "short_name": "A. Taarabt",
+    "club_team_id": 234,
+    "nationality_id": 129,
+    "club_name": "SL Benfica",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 206493,
+    "short_name": "Y. Abdelhamid",
+    "club_team_id": 379,
+    "nationality_id": 129,
+    "club_name": "Stade de Reims",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 213761,
+    "short_name": "A. Hamdallah",
+    "club_team_id": 112139,
+    "nationality_id": 129,
+    "club_name": "Al Nassr",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 205083,
+    "short_name": "F. Fajr",
+    "club_team_id": 101041,
+    "nationality_id": 129,
+    "club_name": "Demir Grup Sivasspor",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 208045,
+    "short_name": "O. Tannane",
+    "club_team_id": 1909,
+    "nationality_id": 129,
+    "club_name": "Vitesse",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 224158,
+    "short_name": "S. Amrabat",
+    "club_team_id": 110374,
+    "nationality_id": 129,
+    "club_name": "Fiorentina",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 228747,
+    "short_name": "O. Idrissi",
+    "club_team_id": 481,
+    "nationality_id": 129,
+    "club_name": "Sevilla FC",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 244749,
+    "short_name": "N. Aguerd",
+    "club_team_id": 74,
+    "nationality_id": 129,
+    "club_name": "Stade Rennais FC",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 198640,
+    "short_name": "Z. Labyad",
+    "club_team_id": 245,
+    "nationality_id": 129,
+    "club_name": "Ajax",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 225699,
+    "short_name": "Anuar",
+    "club_team_id": 462,
+    "nationality_id": 129,
+    "club_name": "Real Valladolid CF",
+    "nationality_name": "Morocco"
+  },
+  {
+    "sofifa_id": 236045,
+    "short_name": "Reinildo",
+    "club_team_id": 65,
+    "nationality_id": 130,
+    "club_name": "LOSC Lille",
+    "nationality_name": "Mozambique"
+  },
+  {
+    "sofifa_id": 217235,
+    "short_name": "Zainadine",
+    "club_team_id": 1893,
+    "nationality_id": 130,
+    "club_name": "Clube Sport Marítimo",
+    "nationality_name": "Mozambique"
+  },
+  {
+    "sofifa_id": 203376,
+    "short_name": "V. van Dijk",
+    "club_team_id": 9,
+    "nationality_id": 34,
+    "club_name": "Liverpool",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 228702,
+    "short_name": "F. de Jong",
+    "club_team_id": 241,
+    "nationality_id": 34,
+    "club_name": "FC Barcelona",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 198176,
+    "short_name": "S. de Vrij",
+    "club_team_id": 44,
+    "nationality_id": 34,
+    "club_name": "Inter",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 202556,
+    "short_name": "M. Depay",
+    "club_team_id": 241,
+    "nationality_id": 34,
+    "club_name": "FC Barcelona",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 235243,
+    "short_name": "M. de Ligt",
+    "club_team_id": 45,
+    "nationality_id": 34,
+    "club_name": "Juventus",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 181291,
+    "short_name": "G. Wijnaldum",
+    "club_team_id": 73,
+    "nationality_id": 34,
+    "club_name": "Paris Saint-Germain",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 223689,
+    "short_name": "W. Weghorst",
+    "club_team_id": 175,
+    "nationality_id": 34,
+    "club_name": "VfL Wolfsburg",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 190815,
+    "short_name": "D. Blind",
+    "club_team_id": 245,
+    "nationality_id": 34,
+    "club_name": "Ajax",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 208461,
+    "short_name": "M. de Roon",
+    "club_team_id": 39,
+    "nationality_id": 34,
+    "club_name": "Atalanta",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 233096,
+    "short_name": "D. Dumfries",
+    "club_team_id": 44,
+    "nationality_id": 34,
+    "club_name": "Inter",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 199987,
+    "short_name": "J. Cillessen",
+    "club_team_id": 461,
+    "nationality_id": 34,
+    "club_name": "Valencia CF",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 200260,
+    "short_name": "S. Berghuis",
+    "club_team_id": 245,
+    "nationality_id": 34,
+    "club_name": "Ajax",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 220093,
+    "short_name": "H. Hateboer",
+    "club_team_id": 39,
+    "nationality_id": 34,
+    "club_name": "Atalanta",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 221363,
+    "short_name": "D. van de Beek",
+    "club_team_id": 11,
+    "nationality_id": 34,
+    "club_name": "Manchester United",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 208808,
+    "short_name": "Q. Promes",
+    "club_team_id": 100767,
+    "nationality_id": 34,
+    "club_name": "Spartak Moskva",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 225953,
+    "short_name": "S. Bergwijn",
+    "club_team_id": 18,
+    "nationality_id": 34,
+    "club_name": "Tottenham Hotspur",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 231447,
+    "short_name": "D. Malen",
+    "club_team_id": 22,
+    "nationality_id": 34,
+    "club_name": "Borussia Dortmund",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 189805,
+    "short_name": "L. de Jong",
+    "club_team_id": 241,
+    "nationality_id": 34,
+    "club_name": "FC Barcelona",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 203483,
+    "short_name": "D. Klaassen",
+    "club_team_id": 245,
+    "nationality_id": 34,
+    "club_name": "Ajax",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 236572,
+    "short_name": "O. Wijndal",
+    "club_team_id": 1906,
+    "nationality_id": 34,
+    "club_name": "AZ Alkmaar",
+    "nationality_name": "Netherlands"
+  },
+  {
+    "sofifa_id": 192123,
+    "short_name": "C. Wood",
+    "club_team_id": 1796,
+    "nationality_id": 198,
+    "club_name": "Burnley",
+    "nationality_name": "New Zealand"
+  },
+  {
+    "sofifa_id": 226790,
+    "short_name": "W. Ndidi",
+    "club_team_id": 95,
+    "nationality_id": 133,
+    "club_name": "Leicester City",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 232293,
+    "short_name": "V. Osimhen",
+    "club_team_id": 48,
+    "nationality_id": 133,
+    "club_name": "Napoli",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 212382,
+    "short_name": "P. Onuachu",
+    "club_team_id": 673,
+    "nationality_id": 133,
+    "club_name": "KRC Genk",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 172962,
+    "short_name": "V. Moses",
+    "club_team_id": 100767,
+    "nationality_id": 133,
+    "club_name": "Spartak Moskva",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 225719,
+    "short_name": "K. Iheanacho",
+    "club_team_id": 95,
+    "nationality_id": 133,
+    "club_name": "Leicester City",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 213655,
+    "short_name": "A. Iwobi",
+    "club_team_id": 7,
+    "nationality_id": 133,
+    "club_name": "Everton",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 241771,
+    "short_name": "A. Nwakaeme",
+    "club_team_id": 436,
+    "nationality_id": 133,
+    "club_name": "Trabzonspor",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 246172,
+    "short_name": "S. Chukwueze",
+    "club_team_id": 483,
+    "nationality_id": 133,
+    "club_name": "Villarreal CF",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 224739,
+    "short_name": "P. Olayinka",
+    "club_team_id": 266,
+    "nationality_id": 133,
+    "club_name": "SK Slavia Praha",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 251528,
+    "short_name": "Z. Sanusi",
+    "club_team_id": 236,
+    "nationality_id": 133,
+    "club_name": "FC Porto",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 185195,
+    "short_name": "O. Ighalo",
+    "club_team_id": 111674,
+    "nationality_id": 133,
+    "club_name": "Al Shabab",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 216820,
+    "short_name": "M. Simon",
+    "club_team_id": 71,
+    "nationality_id": 133,
+    "club_name": "FC Nantes",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 231627,
+    "short_name": "U. Sadiq",
+    "club_team_id": 1861,
+    "nationality_id": 133,
+    "club_name": "Unión Deportiva Almería",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 234045,
+    "short_name": "H. Onyekuru",
+    "club_team_id": 280,
+    "nationality_id": 133,
+    "club_name": "Olympiacos CFP",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 239529,
+    "short_name": "F. Onyeka",
+    "club_team_id": 1925,
+    "nationality_id": 133,
+    "club_name": "Brentford",
+    "nationality_name": "Nigeria"
+  },
+  {
+    "sofifa_id": 237239,
+    "short_name": "E. Bardhi",
+    "club_team_id": 1853,
+    "nationality_id": 19,
+    "club_name": "Levante Unión Deportiva",
+    "nationality_name": "North Macedonia"
+  },
+  {
+    "sofifa_id": 216350,
+    "short_name": "A. Ademi",
+    "club_team_id": 211,
+    "nationality_id": 19,
+    "club_name": "Dinamo Zagreb",
+    "nationality_name": "North Macedonia"
+  },
+  {
+    "sofifa_id": 205965,
+    "short_name": "S. Ristovski",
+    "club_team_id": 211,
+    "nationality_id": 19,
+    "club_name": "Dinamo Zagreb",
+    "nationality_name": "North Macedonia"
+  },
+  {
+    "sofifa_id": 211348,
+    "short_name": "S. Dimitrievski",
+    "club_team_id": 480,
+    "nationality_id": 19,
+    "club_name": "Rayo Vallecano",
+    "nationality_name": "North Macedonia"
+  },
+  {
+    "sofifa_id": 137506,
+    "short_name": "G. Pandev",
+    "club_team_id": 110556,
+    "nationality_id": 19,
+    "club_name": "Genoa",
+    "nationality_name": "North Macedonia"
+  },
+  {
+    "sofifa_id": 169588,
+    "short_name": "J. Evans",
+    "club_team_id": 95,
+    "nationality_id": 35,
+    "club_name": "Leicester City",
+    "nationality_name": "Northern Ireland"
+  },
+  {
+    "sofifa_id": 151508,
+    "short_name": "S. Davis",
+    "club_team_id": 86,
+    "nationality_id": 35,
+    "club_name": "Rangers FC",
+    "nationality_name": "Northern Ireland"
+  },
+  {
+    "sofifa_id": 203570,
+    "short_name": "S. Dallas",
+    "club_team_id": 8,
+    "nationality_id": 35,
+    "club_name": "Leeds United",
+    "nationality_name": "Northern Ireland"
+  },
+  {
+    "sofifa_id": 186143,
+    "short_name": "O. Norwood",
+    "club_team_id": 1794,
+    "nationality_id": 35,
+    "club_name": "Sheffield United",
+    "nationality_name": "Northern Ireland"
+  },
+  {
+    "sofifa_id": 239085,
+    "short_name": "E. Haaland",
+    "club_team_id": 22,
+    "nationality_id": 36,
+    "club_name": "Borussia Dortmund",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 222665,
+    "short_name": "M. Ødegaard",
+    "club_team_id": 1,
+    "nationality_id": 36,
+    "club_name": "Arsenal",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 198657,
+    "short_name": "J. Svensson",
+    "club_team_id": 101016,
+    "nationality_id": 36,
+    "club_name": "Adana Demirspor",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 198658,
+    "short_name": "F. Midtsjø",
+    "club_team_id": 1906,
+    "nationality_id": 36,
+    "club_name": "AZ Alkmaar",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 104389,
+    "short_name": "R. Jarstein",
+    "club_team_id": 166,
+    "nationality_id": 36,
+    "club_name": "Hertha BSC",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 216549,
+    "short_name": "A. Sørloth",
+    "club_team_id": 457,
+    "nationality_id": 36,
+    "club_name": "Real Sociedad",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 222404,
+    "short_name": "M. Normann",
+    "club_team_id": 1792,
+    "nationality_id": 36,
+    "club_name": "Norwich City",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 228092,
+    "short_name": "S. Berge",
+    "club_team_id": 1794,
+    "nationality_id": 36,
+    "club_name": "Sheffield United",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 233848,
+    "short_name": "J. Hauge",
+    "club_team_id": 1824,
+    "nationality_id": 36,
+    "club_name": "Eintracht Frankfurt",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 153048,
+    "short_name": "M. Eikrem",
+    "club_team_id": 417,
+    "nationality_id": 36,
+    "club_name": "Molde FK",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 185422,
+    "short_name": "J. King",
+    "club_team_id": 1795,
+    "nationality_id": 36,
+    "club_name": "Watford",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 203362,
+    "short_name": "M. Elyounoussi",
+    "club_team_id": 17,
+    "nationality_id": 36,
+    "club_name": "Southampton",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 219466,
+    "short_name": "B. Meling",
+    "club_team_id": 74,
+    "nationality_id": 36,
+    "club_name": "Stade Rennais FC",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 224258,
+    "short_name": "K. Ajer",
+    "club_team_id": 1925,
+    "nationality_id": 36,
+    "club_name": "Brentford",
+    "nationality_name": "Norway"
+  },
+  {
+    "sofifa_id": 202089,
+    "short_name": "L. Mejía",
+    "club_team_id": 111002,
+    "nationality_id": 87,
+    "club_name": "Centro Atlético Fénix",
+    "nationality_name": "Panama"
+  },
+  {
+    "sofifa_id": 237841,
+    "short_name": "M. Murillo",
+    "club_team_id": 229,
+    "nationality_id": 87,
+    "club_name": "RSC Anderlecht",
+    "nationality_name": "Panama"
+  },
+  {
+    "sofifa_id": 198129,
+    "short_name": "C. Ortiz",
+    "club_team_id": 1032,
+    "nationality_id": 58,
+    "club_name": "CF Monterrey",
+    "nationality_name": "Paraguay"
+  },
+  {
+    "sofifa_id": 230977,
+    "short_name": "M. Almirón",
+    "club_team_id": 13,
+    "nationality_id": 58,
+    "club_name": "Newcastle United",
+    "nationality_name": "Paraguay"
+  },
+  {
+    "sofifa_id": 227772,
+    "short_name": "G. Giménez",
+    "club_team_id": 693,
+    "nationality_id": 58,
+    "club_name": "Chicago Fire Football Club",
+    "nationality_name": "Paraguay"
+  },
+  {
+    "sofifa_id": 179752,
+    "short_name": "Ó. Cardozo",
+    "club_team_id": 111008,
+    "nationality_id": 58,
+    "club_name": "Club Libertad",
+    "nationality_name": "Paraguay"
+  },
+  {
+    "sofifa_id": 204977,
+    "short_name": "I. Piris",
+    "club_team_id": 111008,
+    "nationality_id": 58,
+    "club_name": "Club Libertad",
+    "nationality_name": "Paraguay"
+  },
+  {
+    "sofifa_id": 219835,
+    "short_name": "N. Camacho",
+    "club_team_id": 101108,
+    "nationality_id": 58,
+    "club_name": "Club Olimpia",
+    "nationality_name": "Paraguay"
+  },
+  {
+    "sofifa_id": 222429,
+    "short_name": "A. Cubas",
+    "club_team_id": 224,
+    "nationality_id": 58,
+    "club_name": "Nîmes Olympique",
+    "nationality_name": "Paraguay"
+  },
+  {
+    "sofifa_id": 226376,
+    "short_name": "Kaku",
+    "club_team_id": 112393,
+    "nationality_id": 58,
+    "club_name": "Al Taawoun",
+    "nationality_name": "Paraguay"
+  },
+  {
+    "sofifa_id": 182941,
+    "short_name": "P. Aguilar",
+    "club_team_id": 1878,
+    "nationality_id": 58,
+    "club_name": "Cruz Azul",
+    "nationality_name": "Paraguay"
+  },
+  {
+    "sofifa_id": 203299,
+    "short_name": "A. Carrillo",
+    "club_team_id": 605,
+    "nationality_id": 59,
+    "club_name": "Al Hilal",
+    "nationality_name": "Peru"
+  },
+  {
+    "sofifa_id": 204538,
+    "short_name": "R. Ruidíaz",
+    "club_team_id": 111144,
+    "nationality_id": 59,
+    "club_name": "Seattle Sounders FC",
+    "nationality_name": "Peru"
+  },
+  {
+    "sofifa_id": 220673,
+    "short_name": "R. Tapia",
+    "club_team_id": 450,
+    "nationality_id": 59,
+    "club_name": "RC Celta de Vigo",
+    "nationality_name": "Peru"
+  },
+  {
+    "sofifa_id": 236264,
+    "short_name": "P. Aquino",
+    "club_team_id": 1879,
+    "nationality_id": 59,
+    "club_name": "Club América",
+    "nationality_name": "Peru"
+  },
+  {
+    "sofifa_id": 204539,
+    "short_name": "L. Advíncula",
+    "club_team_id": 1877,
+    "nationality_id": 59,
+    "club_name": "Boca Juniors",
+    "nationality_name": "Peru"
+  },
+  {
+    "sofifa_id": 234178,
+    "short_name": "L. Abram",
+    "club_team_id": 110832,
+    "nationality_id": 59,
+    "club_name": "Granada CF",
+    "nationality_name": "Peru"
+  },
+  {
+    "sofifa_id": 188545,
+    "short_name": "R. Lewandowski",
+    "club_team_id": 21,
+    "nationality_id": 37,
+    "club_name": "FC Bayern München",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 186153,
+    "short_name": "W. Szczęsny",
+    "club_team_id": 45,
+    "nationality_id": 37,
+    "club_name": "Juventus",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 164835,
+    "short_name": "Ł. Fabiański",
+    "club_team_id": 19,
+    "nationality_id": 37,
+    "club_name": "West Ham United",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 205175,
+    "short_name": "A. Milik",
+    "club_team_id": 219,
+    "nationality_id": 37,
+    "club_name": "Olympique de Marseille",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 210406,
+    "short_name": "P. Zieliński",
+    "club_team_id": 48,
+    "nationality_id": 37,
+    "club_name": "Napoli",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 197242,
+    "short_name": "G. Krychowiak",
+    "club_team_id": null,
+    "nationality_id": 37,
+    "club_name": null,
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 194333,
+    "short_name": "R. Gikiewicz",
+    "club_team_id": 100409,
+    "nationality_id": 37,
+    "club_name": "FC Augsburg",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 215502,
+    "short_name": "B. Drągowski",
+    "club_team_id": 110374,
+    "nationality_id": 37,
+    "club_name": "Fiorentina",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 220570,
+    "short_name": "J. Bednarek",
+    "club_team_id": 17,
+    "nationality_id": 37,
+    "club_name": "Southampton",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 223113,
+    "short_name": "K. Piątek",
+    "club_team_id": 166,
+    "nationality_id": 37,
+    "club_name": "Hertha BSC",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 186347,
+    "short_name": "M. Rybus",
+    "club_team_id": 100765,
+    "nationality_id": 37,
+    "club_name": "FC Lokomotiv Moscow",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 189908,
+    "short_name": "Ł. Skorupski",
+    "club_team_id": 189,
+    "nationality_id": 37,
+    "club_name": "Bologna",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 192955,
+    "short_name": "M. Klich",
+    "club_team_id": 8,
+    "nationality_id": 37,
+    "club_name": "Leeds United",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 210136,
+    "short_name": "T. Kędziora",
+    "club_team_id": 101047,
+    "nationality_id": 37,
+    "club_name": "Dynamo Kyiv",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 213404,
+    "short_name": "P. Dawidowicz",
+    "club_team_id": 206,
+    "nationality_id": 37,
+    "club_name": "Hellas Verona",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 162280,
+    "short_name": "A. Mierzejewski",
+    "club_team_id": 110955,
+    "nationality_id": 37,
+    "club_name": "Shanghai Shenhua FC",
+    "nationality_name": "Poland"
+  },
+  {
+    "sofifa_id": 20801,
+    "short_name": "Cristiano Ronaldo",
+    "club_team_id": 11,
+    "nationality_id": 38,
+    "club_name": "Manchester United",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 212198,
+    "short_name": "Bruno Fernandes",
+    "club_team_id": 11,
+    "nationality_id": 38,
+    "club_name": "Manchester United",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 239818,
+    "short_name": "Rúben Dias",
+    "club_team_id": 10,
+    "nationality_id": 38,
+    "club_name": "Manchester City",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 210514,
+    "short_name": "João Cancelo",
+    "club_team_id": 10,
+    "nationality_id": 38,
+    "club_name": "Manchester City",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 218667,
+    "short_name": "Bernardo Silva",
+    "club_team_id": 10,
+    "nationality_id": 38,
+    "club_name": "Manchester City",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 209889,
+    "short_name": "R. Guerreiro",
+    "club_team_id": 22,
+    "nationality_id": 38,
+    "club_name": "Borussia Dortmund",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 210243,
+    "short_name": "Ricardo Pereira",
+    "club_team_id": 95,
+    "nationality_id": 38,
+    "club_name": "Leicester City",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 228941,
+    "short_name": "André Silva",
+    "club_team_id": 112172,
+    "nationality_id": 38,
+    "club_name": "RB Leipzig",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 242444,
+    "short_name": "João Félix",
+    "club_team_id": 240,
+    "nationality_id": 38,
+    "club_name": "Atlético de Madrid",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 120533,
+    "short_name": "Pepe",
+    "club_team_id": 236,
+    "nationality_id": 38,
+    "club_name": "FC Porto",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 178005,
+    "short_name": "Rui Patrício",
+    "club_team_id": 52,
+    "nationality_id": 38,
+    "club_name": "Roma",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 199482,
+    "short_name": "A. Lopes",
+    "club_team_id": 66,
+    "nationality_id": 38,
+    "club_name": "Olympique Lyonnais",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 216547,
+    "short_name": "Rafa",
+    "club_team_id": 234,
+    "nationality_id": 38,
+    "club_name": "SL Benfica",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 224293,
+    "short_name": "Rúben Neves",
+    "club_team_id": 110,
+    "nationality_id": 38,
+    "club_name": "Wolverhampton Wanderers",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 224458,
+    "short_name": "Diogo Jota",
+    "club_team_id": 9,
+    "nationality_id": 38,
+    "club_name": "Liverpool",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 229391,
+    "short_name": "Palhinha",
+    "club_team_id": 237,
+    "nationality_id": 38,
+    "club_name": "Sporting CP",
+    "nationality_name": "Portugal"
+  },
+  {
+    "sofifa_id": 139068,
+    "short_name": "Nani",
+    "club_team_id": 112606,
+    "nationality_id": 38,
+    "club_name": "Orlando City Soccer Club",
+    "nationality_name": "Portugal"
+  }
+]

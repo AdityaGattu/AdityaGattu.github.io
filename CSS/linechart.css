@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.body_p {
+  font-family: 'Roboto', sans-serif;
+    margin-left: 50px;
+    background-color: #000;
+    color: #fff;
+  }
+
+  .description_lc {
+    background: black; 
+    color: white; 
+    font-size: 1em; 
+    font-weight: 300; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    margin: 10px 0 20px; 
+    display: inline-block; 
+    max-width: 80%; 
+    line-height: 1.5; 
+    text-align: center;
+    margin-left : 100px;
+  }
+  
+  .headers_lc h1 {
+    margin: 0;
+    margin-left : 270px;
+    padding: 0;
+    font-size: 2em; 
+    color: #ffffff; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .bottom-charts_lc {
+    display: flex;
+  flex-direction: row; 
+  justify-content: center; 
+  align-items: flex-start; 
+  flex-wrap: wrap; 
+  }
+  
+  .bottom-charts_lc > div {
+    max-width: 50%; 
+    box-sizing: border-box;
+  }
+
+  .col-md-6 {
+    max-width: 50%;
+  }
+
+  .class1_lc {
+    color: limegreen !important;
+    margin-left: 45px;
+    font-size: 2.1em;
+  }
+  
+  .class2_lc {
+    color: limegreen !important;
+    font-size: 2.1em;
+    margin-left: 200px;
+  }
+  
+
+
+
+.outer_lc {
+  display: flex;
+}
+
+.line_lc {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2
+}
+
+.dropdown_lc {
+  width: 250px;
+}
+
+.axis_lc path
+ {
+  stroke: white;
+}
+
+.line_lc {
+  fill: none;
+  stroke-width: 2px;
+}
+
+
+
+.axis_lc line
+ {
+  stroke: white;
+}
+
+  .dropdown-container_lc {
+  margin-top: 14px;
+  margin-bottom: 20px;
+  margin-left: 55px;
+  display: flex;
+  flex-flow: column;
+  width: auto;
+  }
+  
+  .formclass_lc {
+    display: flex;
+    flex-flow: column;
+    margin-left: 80px;
+  }
+
+  .skills_lc {
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+
+  #chart-area_lc{
+    margin-top: 85px;
+    margin-left: 60px;
+  }
+
+  .yearclass_lc {
+    flex-wrap: nowrap;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  /* style of bar charts */
+  .bar_lc{
+    fill: #2FA4FF;
+    }
+    
+    .hovered_lc {
+    
+    fill: #ECF4D6;
+    }
+  
+  .tooltip_lc {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  pointer-events: none;
+  font-size: 13px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+  color: #000;
+  }
+
+  .d3-tip_lc {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    pointer-events: none;
+    font-size: 13px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+  }
+
+#chart-container_lc{
+  margin-top: 0px;
+}
+
+.heading_lc {
+  margin-bottom: 29px;
+  margin-left: 6px;
+}
+
+.apply_lc {
+  background-color: #FF6666;
+  color: white;
+}
+
+
+.axis_lc text {
+  font-size: 13px;
+}
+
+.bottom-charts_lc {
+  display: flex;
+}
+
+.country-dropdown_lc {
+  margin: 20px 0px 20px 300px;
+  display: flex;
+  align-items: baseline;
+}
+
+#country1_lc, #country2_lc {
+  width: 250px;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.headers_lc{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#country1_lc{
+    background: #2FA4FF;
+    stroke-opacity: 0.5;
+    color: white;
+}
+
+#country2_lc{
+  background: rgb(250, 112, 112);
+  stroke-opacity: 0.5;
+  color: white;
+}
+
+
+

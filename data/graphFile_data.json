@@ -1,0 +1,2406 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "name": "H. Belkebla",
+            "group": 1,
+            "nationality": "Algeria",
+            "club": "Stade Brestois 29"
+        },
+        {
+            "id": 1,
+            "name": "J. David",
+            "group": 1,
+            "nationality": "Canada",
+            "club": "LOSC Lille"
+        },
+        {
+            "id": 2,
+            "name": "A. Ring",
+            "group": 2,
+            "nationality": "Finland",
+            "club": "Austin FC"
+        },
+        {
+            "id": 3,
+            "name": "A. Florenzi",
+            "group": 1,
+            "nationality": "Italy",
+            "club": "AC Milan"
+        },
+        {
+            "id": 4,
+            "name": "S. Berghuis",
+            "group": 1,
+            "nationality": "Netherlands",
+            "club": "Ajax"
+        },
+        {
+            "id": 5,
+            "name": "J. Gbamin",
+            "group": 1,
+            "nationality": "C\u00f4te d'Ivoire",
+            "club": "Everton"
+        },
+        {
+            "id": 6,
+            "name": "R. Jarstein",
+            "group": 3,
+            "nationality": "Norway",
+            "club": "Hertha BSC"
+        },
+        {
+            "id": 7,
+            "name": "C. Baumgartner",
+            "group": 3,
+            "nationality": "Austria",
+            "club": "TSG Hoffenheim"
+        },
+        {
+            "id": 8,
+            "name": "H. Mart\u00edn",
+            "group": 2,
+            "nationality": "Mexico",
+            "club": "Club Am\u00e9rica"
+        },
+        {
+            "id": 9,
+            "name": "V. Coufal",
+            "group": 2,
+            "nationality": "Czech Republic",
+            "club": "West Ham United"
+        },
+        {
+            "id": 10,
+            "name": "E. Zahavi",
+            "group": 3,
+            "nationality": "Israel",
+            "club": "PSV"
+        },
+        {
+            "id": 11,
+            "name": "J. Vertonghen",
+            "group": 2,
+            "nationality": "Belgium",
+            "club": "SL Benfica"
+        },
+        {
+            "id": 12,
+            "name": "W. Endo",
+            "group": 2,
+            "nationality": "Japan",
+            "club": "VfB Stuttgart"
+        },
+        {
+            "id": 13,
+            "name": "T. Kubo",
+            "group": 2,
+            "nationality": "Japan",
+            "club": "RCD Mallorca"
+        },
+        {
+            "id": 14,
+            "name": "F. Kessi\u00e9",
+            "group": 3,
+            "nationality": "C\u00f4te d'Ivoire",
+            "club": "AC Milan"
+        },
+        {
+            "id": 15,
+            "name": "R. Falk",
+            "group": 3,
+            "nationality": "Denmark",
+            "club": "F.C. K\u00f8benhavn"
+        },
+        {
+            "id": 16,
+            "name": "P. Mantalos",
+            "group": 3,
+            "nationality": "Greece",
+            "club": "AEK Athens"
+        },
+        {
+            "id": 17,
+            "name": "D. Wass",
+            "group": 1,
+            "nationality": "Denmark",
+            "club": "Valencia CF"
+        },
+        {
+            "id": 18,
+            "name": "P. Foden",
+            "group": 1,
+            "nationality": "England",
+            "club": "Manchester City"
+        },
+        {
+            "id": 19,
+            "name": "F\u00e1bio Abreu",
+            "group": 1,
+            "nationality": "Angola",
+            "club": "Al Batin"
+        },
+        {
+            "id": 20,
+            "name": "J. Cuadrado",
+            "group": 2,
+            "nationality": "Colombia",
+            "club": "Juventus"
+        },
+        {
+            "id": 21,
+            "name": "T. Pukki",
+            "group": 3,
+            "nationality": "Finland",
+            "club": "Norwich City"
+        },
+        {
+            "id": 22,
+            "name": "A. Iwobi",
+            "group": 2,
+            "nationality": "Nigeria",
+            "club": "Everton"
+        },
+        {
+            "id": 23,
+            "name": "S. Joveti\u0107",
+            "group": 3,
+            "nationality": "Montenegro",
+            "club": "Hertha BSC"
+        },
+        {
+            "id": 24,
+            "name": "G. Sigur\u00f0sson",
+            "group": 3,
+            "nationality": "Iceland",
+            "club": "Everton"
+        },
+        {
+            "id": 25,
+            "name": "R. Sallai",
+            "group": 1,
+            "nationality": "Hungary",
+            "club": "Sport-Club Freiburg"
+        },
+        {
+            "id": 26,
+            "name": "S. Schwab",
+            "group": 2,
+            "nationality": "Austria",
+            "club": "PAOK"
+        },
+        {
+            "id": 27,
+            "name": "W. Boly",
+            "group": 3,
+            "nationality": "C\u00f4te d'Ivoire",
+            "club": "Wolverhampton Wanderers"
+        },
+        {
+            "id": 28,
+            "name": "I. Traor\u00e9",
+            "group": 3,
+            "nationality": "C\u00f4te d'Ivoire",
+            "club": "Angers SCO"
+        },
+        {
+            "id": 29,
+            "name": "D. Samass\u00e9kou",
+            "group": 2,
+            "nationality": "Mali",
+            "club": "TSG Hoffenheim"
+        },
+        {
+            "id": 30,
+            "name": "Z. Labyad",
+            "group": 2,
+            "nationality": "Morocco",
+            "club": "Ajax"
+        },
+        {
+            "id": 31,
+            "name": "Roberto Firmino",
+            "group": 3,
+            "nationality": "Brazil",
+            "club": "Liverpool"
+        },
+        {
+            "id": 32,
+            "name": "Pedro Obiang",
+            "group": 1,
+            "nationality": "Equatorial Guinea",
+            "club": "U.S. Sassuolo Calcio"
+        },
+        {
+            "id": 33,
+            "name": "P. Gul\u00e1csi",
+            "group": 3,
+            "nationality": "Hungary",
+            "club": "RB Leipzig"
+        },
+        {
+            "id": 34,
+            "name": "Y. Mina",
+            "group": 2,
+            "nationality": "Colombia",
+            "club": "Everton"
+        },
+        {
+            "id": 35,
+            "name": "M. Icardi",
+            "group": 1,
+            "nationality": "Argentina",
+            "club": "Paris Saint-Germain"
+        },
+        {
+            "id": 36,
+            "name": "Alisson",
+            "group": 3,
+            "nationality": "Brazil",
+            "club": "Liverpool"
+        },
+        {
+            "id": 37,
+            "name": "M. Camara",
+            "group": 2,
+            "nationality": "Guinea",
+            "club": "Olympiacos CFP"
+        },
+        {
+            "id": 38,
+            "name": "S. Bahoken",
+            "group": 2,
+            "nationality": "Cameroon",
+            "club": "Angers SCO"
+        },
+        {
+            "id": 39,
+            "name": "G. Masouras",
+            "group": 2,
+            "nationality": "Greece",
+            "club": "Olympiacos CFP"
+        },
+        {
+            "id": 40,
+            "name": "P. Dybala",
+            "group": 2,
+            "nationality": "Argentina",
+            "club": "Juventus"
+        },
+        {
+            "id": 41,
+            "name": "P. Lienhart",
+            "group": 2,
+            "nationality": "Austria",
+            "club": "Sport-Club Freiburg"
+        },
+        {
+            "id": 42,
+            "name": "A. R\u00fcdiger",
+            "group": 3,
+            "nationality": "Germany",
+            "club": "Chelsea"
+        },
+        {
+            "id": 43,
+            "name": "K. Coman",
+            "group": 3,
+            "nationality": "France",
+            "club": "FC Bayern M\u00fcnchen"
+        },
+        {
+            "id": 44,
+            "name": "G. Ochoa",
+            "group": 3,
+            "nationality": "Mexico",
+            "club": "Club Am\u00e9rica"
+        },
+        {
+            "id": 45,
+            "name": "A. Szalai",
+            "group": 3,
+            "nationality": "Hungary",
+            "club": "Fenerbah\u00e7e SK"
+        },
+        {
+            "id": 46,
+            "name": "N. Ara\u00fajo",
+            "group": 3,
+            "nationality": "Mexico",
+            "club": "RC Celta de Vigo"
+        },
+        {
+            "id": 47,
+            "name": "O. Kol\u00e1\u0159",
+            "group": 3,
+            "nationality": "Czech Republic",
+            "club": "SK Slavia Praha"
+        },
+        {
+            "id": 48,
+            "name": "G. Kondogbia",
+            "group": 1,
+            "nationality": "Central African Republic",
+            "club": "Atl\u00e9tico de Madrid"
+        },
+        {
+            "id": 49,
+            "name": "N. Fekir",
+            "group": 2,
+            "nationality": "France",
+            "club": "Real Betis Balompi\u00e9"
+        },
+        {
+            "id": 50,
+            "name": "D. Vida",
+            "group": 2,
+            "nationality": "Croatia",
+            "club": "Be\u015fikta\u015f JK"
+        },
+        {
+            "id": 51,
+            "name": "I. Piris",
+            "group": 1,
+            "nationality": "Paraguay",
+            "club": "Club Libertad"
+        },
+        {
+            "id": 52,
+            "name": "L. Hr\u00e1deck\u00fd",
+            "group": 1,
+            "nationality": "Finland",
+            "club": "Bayer 04 Leverkusen"
+        },
+        {
+            "id": 53,
+            "name": "M. Borjan",
+            "group": 1,
+            "nationality": "Canada",
+            "club": null
+        },
+        {
+            "id": 54,
+            "name": "J. Fuenzalida",
+            "group": 1,
+            "nationality": "Chile",
+            "club": "Universidad Cat\u00f3lica"
+        },
+        {
+            "id": 55,
+            "name": "Ai Kesen",
+            "group": 2,
+            "nationality": "China PR",
+            "club": "Guangzhou FC"
+        },
+        {
+            "id": 56,
+            "name": "C. Trimmel",
+            "group": 3,
+            "nationality": "Austria",
+            "club": "1. FC Union Berlin"
+        },
+        {
+            "id": 57,
+            "name": "Fernandinho",
+            "group": 2,
+            "nationality": "Brazil",
+            "club": "Manchester City"
+        },
+        {
+            "id": 58,
+            "name": "Palhinha",
+            "group": 3,
+            "nationality": "Portugal",
+            "club": "Sporting CP"
+        },
+        {
+            "id": 59,
+            "name": "S. Vegas",
+            "group": 3,
+            "nationality": "Chile",
+            "club": "CF Monterrey"
+        },
+        {
+            "id": 60,
+            "name": "S. Mignolet",
+            "group": 2,
+            "nationality": "Belgium",
+            "club": "Club Brugge KV"
+        },
+        {
+            "id": 61,
+            "name": "J. Andersen",
+            "group": 2,
+            "nationality": "Denmark",
+            "club": "Crystal Palace"
+        },
+        {
+            "id": 62,
+            "name": "M. de Ligt",
+            "group": 3,
+            "nationality": "Netherlands",
+            "club": "Juventus"
+        },
+        {
+            "id": 63,
+            "name": "M. Maignan",
+            "group": 1,
+            "nationality": "France",
+            "club": "AC Milan"
+        },
+        {
+            "id": 64,
+            "name": "M. Rashford",
+            "group": 3,
+            "nationality": "England",
+            "club": "Manchester United"
+        },
+        {
+            "id": 65,
+            "name": "R. Sa\u00efss",
+            "group": 1,
+            "nationality": "Morocco",
+            "club": "Wolverhampton Wanderers"
+        },
+        {
+            "id": 66,
+            "name": "S. de Vrij",
+            "group": 3,
+            "nationality": "Netherlands",
+            "club": "Inter"
+        },
+        {
+            "id": 67,
+            "name": "L. Bailey",
+            "group": 1,
+            "nationality": "Jamaica",
+            "club": "Aston Villa"
+        },
+        {
+            "id": 68,
+            "name": "Y. Abdelhamid",
+            "group": 1,
+            "nationality": "Morocco",
+            "club": "Stade de Reims"
+        },
+        {
+            "id": 69,
+            "name": "Ronaldo Cabrais",
+            "group": 3,
+            "nationality": "Brazil",
+            "club": "Gr\u00eamio"
+        },
+        {
+            "id": 70,
+            "name": "M. Or\u0161i\u0107",
+            "group": 2,
+            "nationality": "Croatia",
+            "club": "Dinamo Zagreb"
+        },
+        {
+            "id": 71,
+            "name": "D. D\u00edaz",
+            "group": 2,
+            "nationality": "Ecuador",
+            "club": "Barcelona Sporting Club"
+        },
+        {
+            "id": 72,
+            "name": "Paulinho",
+            "group": 1,
+            "nationality": "Brazil",
+            "club": "Al Ahli"
+        },
+        {
+            "id": 73,
+            "name": "A. Christensen",
+            "group": 3,
+            "nationality": "Denmark",
+            "club": "Chelsea"
+        },
+        {
+            "id": 74,
+            "name": "C. Ekuban",
+            "group": 2,
+            "nationality": "Ghana",
+            "club": "Genoa"
+        },
+        {
+            "id": 75,
+            "name": "M. Badelj",
+            "group": 1,
+            "nationality": "Croatia",
+            "club": "Genoa"
+        },
+        {
+            "id": 76,
+            "name": "F. Boulaya",
+            "group": 1,
+            "nationality": "Algeria",
+            "club": "FC Metz"
+        },
+        {
+            "id": 77,
+            "name": "Marquinhos",
+            "group": 3,
+            "nationality": "Brazil",
+            "club": "Paris Saint-Germain"
+        },
+        {
+            "id": 78,
+            "name": "A. Januzaj",
+            "group": 2,
+            "nationality": "Belgium",
+            "club": "Real Sociedad"
+        },
+        {
+            "id": 79,
+            "name": "F. Kainz",
+            "group": 3,
+            "nationality": "Austria",
+            "club": "1. FC K\u00f6ln"
+        },
+        {
+            "id": 80,
+            "name": "I. Slimani",
+            "group": 2,
+            "nationality": "Algeria",
+            "club": "Olympique Lyonnais"
+        },
+        {
+            "id": 81,
+            "name": "D. Blind",
+            "group": 2,
+            "nationality": "Netherlands",
+            "club": "Ajax"
+        },
+        {
+            "id": 82,
+            "name": "H. Boudaoui",
+            "group": 3,
+            "nationality": "Algeria",
+            "club": "OGC Nice"
+        },
+        {
+            "id": 83,
+            "name": "S. Bergwijn",
+            "group": 2,
+            "nationality": "Netherlands",
+            "club": "Tottenham Hotspur"
+        },
+        {
+            "id": 84,
+            "name": "E. Mart\u00ednez",
+            "group": 1,
+            "nationality": "Argentina",
+            "club": "Aston Villa"
+        },
+        {
+            "id": 85,
+            "name": "T. Alderweireld",
+            "group": 2,
+            "nationality": "Belgium",
+            "club": null
+        },
+        {
+            "id": 86,
+            "name": "Jo Hyeon Woo",
+            "group": 2,
+            "nationality": "Korea Republic",
+            "club": "Ulsan Hyundai FC"
+        },
+        {
+            "id": 87,
+            "name": "M. Locatelli",
+            "group": 1,
+            "nationality": "Italy",
+            "club": "Juventus"
+        },
+        {
+            "id": 88,
+            "name": "A Lan",
+            "group": 1,
+            "nationality": "China PR",
+            "club": "Guangzhou FC"
+        },
+        {
+            "id": 89,
+            "name": "J. Bednarek",
+            "group": 1,
+            "nationality": "Poland",
+            "club": "Southampton"
+        },
+        {
+            "id": 90,
+            "name": "\u0141. Skorupski",
+            "group": 1,
+            "nationality": "Poland",
+            "club": "Bologna"
+        },
+        {
+            "id": 91,
+            "name": "Bernardo Silva",
+            "group": 2,
+            "nationality": "Portugal",
+            "club": "Manchester City"
+        },
+        {
+            "id": 92,
+            "name": "P. Gollini",
+            "group": 3,
+            "nationality": "Italy",
+            "club": "Tottenham Hotspur"
+        },
+        {
+            "id": 93,
+            "name": "P. Olayinka",
+            "group": 1,
+            "nationality": "Nigeria",
+            "club": "SK Slavia Praha"
+        },
+        {
+            "id": 94,
+            "name": "R. Borr\u00e9",
+            "group": 3,
+            "nationality": "Colombia",
+            "club": "Eintracht Frankfurt"
+        },
+        {
+            "id": 95,
+            "name": "Falcao",
+            "group": 1,
+            "nationality": "Colombia",
+            "club": "Rayo Vallecano"
+        },
+        {
+            "id": 96,
+            "name": "U. \u0110ur\u0111evi\u0107",
+            "group": 2,
+            "nationality": "Montenegro",
+            "club": "Real Sporting de Gij\u00f3n"
+        },
+        {
+            "id": 97,
+            "name": "K. De Bruyne",
+            "group": 1,
+            "nationality": "Belgium",
+            "club": "Manchester City"
+        },
+        {
+            "id": 98,
+            "name": "U. Sadiq",
+            "group": 2,
+            "nationality": "Nigeria",
+            "club": "Uni\u00f3n Deportiva Almer\u00eda"
+        },
+        {
+            "id": 99,
+            "name": "T. Hazard",
+            "group": 1,
+            "nationality": "Belgium",
+            "club": "Borussia Dortmund"
+        },
+        {
+            "id": 100,
+            "name": "M. Taremi",
+            "group": 1,
+            "nationality": "Iran",
+            "club": "FC Porto"
+        },
+        {
+            "id": 101,
+            "name": "D. Praet",
+            "group": 1,
+            "nationality": "Belgium",
+            "club": "Torino F.C."
+        },
+        {
+            "id": 102,
+            "name": "A. S\u00e1nchez",
+            "group": 1,
+            "nationality": "Chile",
+            "club": "Inter"
+        },
+        {
+            "id": 103,
+            "name": "E. Bardhi",
+            "group": 3,
+            "nationality": "North Macedonia",
+            "club": "Levante Uni\u00f3n Deportiva"
+        },
+        {
+            "id": 104,
+            "name": "Neymar Jr",
+            "group": 3,
+            "nationality": "Brazil",
+            "club": "Paris Saint-Germain"
+        },
+        {
+            "id": 105,
+            "name": "D. Bouanga",
+            "group": 1,
+            "nationality": "Gabon",
+            "club": "AS Saint-\u00c9tienne"
+        },
+        {
+            "id": 106,
+            "name": "Rafa",
+            "group": 2,
+            "nationality": "Portugal",
+            "club": "SL Benfica"
+        },
+        {
+            "id": 107,
+            "name": "J. Grealish",
+            "group": 2,
+            "nationality": "England",
+            "club": "Manchester City"
+        },
+        {
+            "id": 108,
+            "name": "S. Kalajd\u017ei\u0107",
+            "group": 1,
+            "nationality": "Austria",
+            "club": "VfB Stuttgart"
+        },
+        {
+            "id": 109,
+            "name": "C. Bacca",
+            "group": 2,
+            "nationality": "Colombia",
+            "club": "Granada CF"
+        },
+        {
+            "id": 110,
+            "name": "J. Schlupp",
+            "group": 1,
+            "nationality": "Ghana",
+            "club": "Crystal Palace"
+        },
+        {
+            "id": 111,
+            "name": "J. Campbell",
+            "group": 3,
+            "nationality": "Costa Rica",
+            "club": "CF Monterrey"
+        },
+        {
+            "id": 112,
+            "name": "F. Acheampong",
+            "group": 1,
+            "nationality": "Ghana",
+            "club": "Shenzhen FC"
+        },
+        {
+            "id": 113,
+            "name": "A. Masuaku",
+            "group": 3,
+            "nationality": "Congo DR",
+            "club": "West Ham United"
+        },
+        {
+            "id": 114,
+            "name": "M. Gradel",
+            "group": 3,
+            "nationality": "C\u00f4te d'Ivoire",
+            "club": "Demir Grup Sivasspor"
+        },
+        {
+            "id": 115,
+            "name": "S. Davis",
+            "group": 2,
+            "nationality": "Northern Ireland",
+            "club": "Rangers FC"
+        },
+        {
+            "id": 116,
+            "name": "D. Vukovic",
+            "group": 2,
+            "nationality": "Australia",
+            "club": "N.E.C. Nijmegen"
+        },
+        {
+            "id": 117,
+            "name": "J. Denayer",
+            "group": 1,
+            "nationality": "Belgium",
+            "club": "Olympique Lyonnais"
+        },
+        {
+            "id": 118,
+            "name": "M. Verratti",
+            "group": 3,
+            "nationality": "Italy",
+            "club": "Paris Saint-Germain"
+        },
+        {
+            "id": 119,
+            "name": "S. Feghouli",
+            "group": 3,
+            "nationality": "Algeria",
+            "club": "Galatasaray SK"
+        },
+        {
+            "id": 120,
+            "name": "R. Gosens",
+            "group": 2,
+            "nationality": "Germany",
+            "club": "Atalanta"
+        },
+        {
+            "id": 121,
+            "name": "T. Lemar",
+            "group": 1,
+            "nationality": "France",
+            "club": "Atl\u00e9tico de Madrid"
+        },
+        {
+            "id": 122,
+            "name": "K. Manolas",
+            "group": 1,
+            "nationality": "Greece",
+            "club": "Napoli"
+        },
+        {
+            "id": 123,
+            "name": "L. Digne",
+            "group": 3,
+            "nationality": "France",
+            "club": "Everton"
+        },
+        {
+            "id": 124,
+            "name": "L. Messi",
+            "group": 2,
+            "nationality": "Argentina",
+            "club": "Paris Saint-Germain"
+        },
+        {
+            "id": 125,
+            "name": "F. Midtsj\u00f8",
+            "group": 2,
+            "nationality": "Norway",
+            "club": "AZ Alkmaar"
+        },
+        {
+            "id": 126,
+            "name": "M. Murillo",
+            "group": 3,
+            "nationality": "Panama",
+            "club": "RSC Anderlecht"
+        },
+        {
+            "id": 127,
+            "name": "A. Carrillo",
+            "group": 2,
+            "nationality": "Peru",
+            "club": "Al Hilal"
+        },
+        {
+            "id": 128,
+            "name": "C. Immobile",
+            "group": 2,
+            "nationality": "Italy",
+            "club": "Lazio"
+        },
+        {
+            "id": 129,
+            "name": "G. Pandev",
+            "group": 1,
+            "nationality": "North Macedonia",
+            "club": "Genoa"
+        },
+        {
+            "id": 130,
+            "name": "A. Milik",
+            "group": 1,
+            "nationality": "Poland",
+            "club": "Olympique de Marseille"
+        },
+        {
+            "id": 131,
+            "name": "A. Davies",
+            "group": 3,
+            "nationality": "Canada",
+            "club": "FC Bayern M\u00fcnchen"
+        },
+        {
+            "id": 132,
+            "name": "A. Zeneli",
+            "group": 2,
+            "nationality": "Kosovo",
+            "club": "Stade de Reims"
+        },
+        {
+            "id": 133,
+            "name": "O. Norwood",
+            "group": 2,
+            "nationality": "Northern Ireland",
+            "club": "Sheffield United"
+        },
+        {
+            "id": 134,
+            "name": "A. Oukidja",
+            "group": 1,
+            "nationality": "Algeria",
+            "club": "FC Metz"
+        },
+        {
+            "id": 135,
+            "name": "Anuar",
+            "group": 3,
+            "nationality": "Morocco",
+            "club": "Real Valladolid CF"
+        },
+        {
+            "id": 136,
+            "name": "L. Bonucci",
+            "group": 1,
+            "nationality": "Italy",
+            "club": "Juventus"
+        },
+        {
+            "id": 137,
+            "name": "A. Vidal",
+            "group": 2,
+            "nationality": "Chile",
+            "club": "Inter"
+        },
+        {
+            "id": 138,
+            "name": "M. Sabitzer",
+            "group": 1,
+            "nationality": "Austria",
+            "club": "FC Bayern M\u00fcnchen"
+        },
+        {
+            "id": 139,
+            "name": "A. Talavera",
+            "group": 3,
+            "nationality": "Mexico",
+            "club": "Club Universidad Nacional"
+        },
+        {
+            "id": 140,
+            "name": "A. Djiku",
+            "group": 3,
+            "nationality": "Ghana",
+            "club": "RC Strasbourg Alsace"
+        },
+        {
+            "id": 141,
+            "name": "R. Funes Mori",
+            "group": 2,
+            "nationality": "Mexico",
+            "club": "CF Monterrey"
+        },
+        {
+            "id": 142,
+            "name": "P. Kade\u0159\u00e1bek",
+            "group": 1,
+            "nationality": "Czech Republic",
+            "club": "TSG Hoffenheim"
+        },
+        {
+            "id": 143,
+            "name": "K. Casteels",
+            "group": 1,
+            "nationality": "Belgium",
+            "club": "VfL Wolfsburg"
+        },
+        {
+            "id": 144,
+            "name": "M. Barrow",
+            "group": 1,
+            "nationality": "Gambia",
+            "club": "Bologna"
+        },
+        {
+            "id": 145,
+            "name": "P. Pogba",
+            "group": 1,
+            "nationality": "France",
+            "club": "Manchester United"
+        },
+        {
+            "id": 146,
+            "name": "J. Maddison",
+            "group": 3,
+            "nationality": "England",
+            "club": "Leicester City"
+        },
+        {
+            "id": 147,
+            "name": "Ricardo Pereira",
+            "group": 2,
+            "nationality": "Portugal",
+            "club": "Leicester City"
+        },
+        {
+            "id": 148,
+            "name": "C. Wood",
+            "group": 1,
+            "nationality": "New Zealand",
+            "club": "Burnley"
+        },
+        {
+            "id": 149,
+            "name": "S. Dimitrievski",
+            "group": 3,
+            "nationality": "North Macedonia",
+            "club": "Rayo Vallecano"
+        },
+        {
+            "id": 150,
+            "name": "M. Klich",
+            "group": 1,
+            "nationality": "Poland",
+            "club": "Leeds United"
+        },
+        {
+            "id": 151,
+            "name": "O. Tannane",
+            "group": 2,
+            "nationality": "Morocco",
+            "club": "Vitesse"
+        },
+        {
+            "id": 152,
+            "name": "K. Ajer",
+            "group": 1,
+            "nationality": "Norway",
+            "club": "Brentford"
+        },
+        {
+            "id": 153,
+            "name": "P. Dawidowicz",
+            "group": 1,
+            "nationality": "Poland",
+            "club": "Hellas Verona"
+        },
+        {
+            "id": 154,
+            "name": "F. Mendy",
+            "group": 3,
+            "nationality": "France",
+            "club": "Real Madrid CF"
+        },
+        {
+            "id": 155,
+            "name": "Jo\u00e3o Cancelo",
+            "group": 1,
+            "nationality": "Portugal",
+            "club": "Manchester City"
+        },
+        {
+            "id": 156,
+            "name": "H. Traor\u00e9",
+            "group": 2,
+            "nationality": "Mali",
+            "club": "Stade Rennais FC"
+        },
+        {
+            "id": 157,
+            "name": "E. D\u017eeko",
+            "group": 2,
+            "nationality": "Bosnia and Herzegovina",
+            "club": "Inter"
+        },
+        {
+            "id": 158,
+            "name": "F. Fajr",
+            "group": 2,
+            "nationality": "Morocco",
+            "club": "Demir Grup Sivasspor"
+        },
+        {
+            "id": 159,
+            "name": "J. Corona",
+            "group": 2,
+            "nationality": "Mexico",
+            "club": "FC Porto"
+        },
+        {
+            "id": 160,
+            "name": "P. Schick",
+            "group": 2,
+            "nationality": "Czech Republic",
+            "club": "Bayer 04 Leverkusen"
+        },
+        {
+            "id": 161,
+            "name": "M. Pjani\u0107",
+            "group": 3,
+            "nationality": "Bosnia and Herzegovina",
+            "club": "Be\u015fikta\u015f JK"
+        },
+        {
+            "id": 162,
+            "name": "G. Arias",
+            "group": 3,
+            "nationality": "Chile",
+            "club": "Racing Club"
+        },
+        {
+            "id": 163,
+            "name": "M. Demb\u00e9l\u00e9",
+            "group": 1,
+            "nationality": "Belgium",
+            "club": "Guangzhou City"
+        },
+        {
+            "id": 164,
+            "name": "S. Sirigu",
+            "group": 3,
+            "nationality": "Italy",
+            "club": "Genoa"
+        },
+        {
+            "id": 165,
+            "name": "Stephen Eust\u00e1quio",
+            "group": 2,
+            "nationality": "Canada",
+            "club": "FC Pa\u00e7os de Ferreira"
+        },
+        {
+            "id": 166,
+            "name": "O. Dorley",
+            "group": 2,
+            "nationality": "Liberia",
+            "club": "SK Slavia Praha"
+        },
+        {
+            "id": 167,
+            "name": "N. Tagliafico",
+            "group": 2,
+            "nationality": "Argentina",
+            "club": "Ajax"
+        },
+        {
+            "id": 168,
+            "name": "R. Cota",
+            "group": 2,
+            "nationality": "Mexico",
+            "club": "Club Le\u00f3n"
+        },
+        {
+            "id": 169,
+            "name": "A. Budimir",
+            "group": 1,
+            "nationality": "Croatia",
+            "club": "CA Osasuna"
+        },
+        {
+            "id": 170,
+            "name": "J. Stones",
+            "group": 2,
+            "nationality": "England",
+            "club": "Manchester City"
+        },
+        {
+            "id": 171,
+            "name": "G. Marip\u00e1n",
+            "group": 1,
+            "nationality": "Chile",
+            "club": "AS Monaco"
+        },
+        {
+            "id": 172,
+            "name": "Pepe",
+            "group": 2,
+            "nationality": "Portugal",
+            "club": "FC Porto"
+        },
+        {
+            "id": 173,
+            "name": "J. Musso",
+            "group": 3,
+            "nationality": "Argentina",
+            "club": "Atalanta"
+        },
+        {
+            "id": 174,
+            "name": "J. Vestergaard",
+            "group": 2,
+            "nationality": "Denmark",
+            "club": "Leicester City"
+        },
+        {
+            "id": 175,
+            "name": "S. Ristovski",
+            "group": 3,
+            "nationality": "North Macedonia",
+            "club": "Dinamo Zagreb"
+        },
+        {
+            "id": 176,
+            "name": "P. \u0160ev\u010d\u00edk",
+            "group": 3,
+            "nationality": "Czech Republic",
+            "club": "SK Slavia Praha"
+        },
+        {
+            "id": 177,
+            "name": "Z. Ferhat",
+            "group": 3,
+            "nationality": "Algeria",
+            "club": "N\u00eemes Olympique"
+        },
+        {
+            "id": 178,
+            "name": "J. Sancho",
+            "group": 2,
+            "nationality": "England",
+            "club": "Manchester United"
+        },
+        {
+            "id": 179,
+            "name": "M. Acu\u00f1a",
+            "group": 2,
+            "nationality": "Argentina",
+            "club": "Sevilla FC"
+        },
+        {
+            "id": 180,
+            "name": "H. Son",
+            "group": 3,
+            "nationality": "Korea Republic",
+            "club": "Tottenham Hotspur"
+        },
+        {
+            "id": 181,
+            "name": "\u00c1. Correa",
+            "group": 1,
+            "nationality": "Argentina",
+            "club": "Atl\u00e9tico de Madrid"
+        },
+        {
+            "id": 182,
+            "name": "S. Chukwueze",
+            "group": 1,
+            "nationality": "Nigeria",
+            "club": "Villarreal CF"
+        },
+        {
+            "id": 183,
+            "name": "E. Berisha",
+            "group": 3,
+            "nationality": "Albania",
+            "club": "Torino F.C."
+        },
+        {
+            "id": 184,
+            "name": "A. Cubas",
+            "group": 3,
+            "nationality": "Paraguay",
+            "club": "N\u00eemes Olympique"
+        },
+        {
+            "id": 185,
+            "name": "L. Refaelov",
+            "group": 1,
+            "nationality": "Israel",
+            "club": "RSC Anderlecht"
+        },
+        {
+            "id": 186,
+            "name": "I. Rakiti\u0107",
+            "group": 3,
+            "nationality": "Croatia",
+            "club": "Sevilla FC"
+        },
+        {
+            "id": 187,
+            "name": "K. Iheanacho",
+            "group": 3,
+            "nationality": "Nigeria",
+            "club": "Leicester City"
+        },
+        {
+            "id": 188,
+            "name": "Zainadine",
+            "group": 2,
+            "nationality": "Mozambique",
+            "club": "Clube Sport Mar\u00edtimo"
+        },
+        {
+            "id": 189,
+            "name": "M. Benatia",
+            "group": 3,
+            "nationality": "Morocco",
+            "club": "Fatih Karag\u00fcmr\u00fck S.K."
+        },
+        {
+            "id": 190,
+            "name": "R. Guerreiro",
+            "group": 2,
+            "nationality": "Portugal",
+            "club": "Borussia Dortmund"
+        },
+        {
+            "id": 191,
+            "name": "E. Hysaj",
+            "group": 3,
+            "nationality": "Albania",
+            "club": "Lazio"
+        },
+        {
+            "id": 192,
+            "name": "G. Donnarumma",
+            "group": 3,
+            "nationality": "Italy",
+            "club": "Paris Saint-Germain"
+        },
+        {
+            "id": 193,
+            "name": "P. Aguilar",
+            "group": 1,
+            "nationality": "Paraguay",
+            "club": "Cruz Azul"
+        },
+        {
+            "id": 194,
+            "name": "M. Brozovi\u0107",
+            "group": 3,
+            "nationality": "Croatia",
+            "club": "Inter"
+        },
+        {
+            "id": 195,
+            "name": "G. Gim\u00e9nez",
+            "group": 2,
+            "nationality": "Paraguay",
+            "club": "Chicago Fire Football Club"
+        },
+        {
+            "id": 196,
+            "name": "Fei Nanduo",
+            "group": 3,
+            "nationality": "China PR",
+            "club": "Guangzhou FC"
+        },
+        {
+            "id": 197,
+            "name": "M. Elneny",
+            "group": 2,
+            "nationality": "Egypt",
+            "club": "Arsenal"
+        },
+        {
+            "id": 198,
+            "name": "B. Petkovi\u0107",
+            "group": 2,
+            "nationality": "Croatia",
+            "club": "Dinamo Zagreb"
+        },
+        {
+            "id": 199,
+            "name": "D. Berardi",
+            "group": 3,
+            "nationality": "Italy",
+            "club": "U.S. Sassuolo Calcio"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 152,
+            "weight": 2
+        },
+        {
+            "source": 1,
+            "target": 148,
+            "weight": 4
+        },
+        {
+            "source": 2,
+            "target": 80,
+            "weight": 2
+        },
+        {
+            "source": 3,
+            "target": 169,
+            "weight": 1
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "weight": 2
+        },
+        {
+            "source": 5,
+            "target": 182,
+            "weight": 5
+        },
+        {
+            "source": 6,
+            "target": 181,
+            "weight": 6
+        },
+        {
+            "source": 7,
+            "target": 182,
+            "weight": 1
+        },
+        {
+            "source": 8,
+            "target": 59,
+            "weight": 2
+        },
+        {
+            "source": 9,
+            "target": 160,
+            "weight": 4
+        },
+        {
+            "source": 10,
+            "target": 31,
+            "weight": 3
+        },
+        {
+            "source": 11,
+            "target": 148,
+            "weight": 6
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "source": 13,
+            "target": 63,
+            "weight": 2
+        },
+        {
+            "source": 14,
+            "target": 179,
+            "weight": 5
+        },
+        {
+            "source": 15,
+            "target": 80,
+            "weight": 5
+        },
+        {
+            "source": 16,
+            "target": 64,
+            "weight": 4
+        },
+        {
+            "source": 17,
+            "target": 71,
+            "weight": 6
+        },
+        {
+            "source": 18,
+            "target": 137,
+            "weight": 5
+        },
+        {
+            "source": 19,
+            "target": 92,
+            "weight": 1
+        },
+        {
+            "source": 20,
+            "target": 25,
+            "weight": 4
+        },
+        {
+            "source": 21,
+            "target": 3,
+            "weight": 6
+        },
+        {
+            "source": 22,
+            "target": 138,
+            "weight": 5
+        },
+        {
+            "source": 23,
+            "target": 164,
+            "weight": 2
+        },
+        {
+            "source": 24,
+            "target": 0,
+            "weight": 3
+        },
+        {
+            "source": 25,
+            "target": 28,
+            "weight": 1
+        },
+        {
+            "source": 26,
+            "target": 140,
+            "weight": 3
+        },
+        {
+            "source": 27,
+            "target": 90,
+            "weight": 5
+        },
+        {
+            "source": 28,
+            "target": 134,
+            "weight": 4
+        },
+        {
+            "source": 29,
+            "target": 111,
+            "weight": 6
+        },
+        {
+            "source": 30,
+            "target": 89,
+            "weight": 3
+        },
+        {
+            "source": 31,
+            "target": 84,
+            "weight": 5
+        },
+        {
+            "source": 32,
+            "target": 186,
+            "weight": 2
+        },
+        {
+            "source": 33,
+            "target": 113,
+            "weight": 1
+        },
+        {
+            "source": 34,
+            "target": 68,
+            "weight": 1
+        },
+        {
+            "source": 35,
+            "target": 56,
+            "weight": 6
+        },
+        {
+            "source": 36,
+            "target": 186,
+            "weight": 5
+        },
+        {
+            "source": 37,
+            "target": 57,
+            "weight": 2
+        },
+        {
+            "source": 38,
+            "target": 1,
+            "weight": 1
+        },
+        {
+            "source": 39,
+            "target": 163,
+            "weight": 6
+        },
+        {
+            "source": 40,
+            "target": 197,
+            "weight": 4
+        },
+        {
+            "source": 41,
+            "target": 180,
+            "weight": 5
+        },
+        {
+            "source": 42,
+            "target": 38,
+            "weight": 5
+        },
+        {
+            "source": 43,
+            "target": 33,
+            "weight": 5
+        },
+        {
+            "source": 44,
+            "target": 177,
+            "weight": 3
+        },
+        {
+            "source": 45,
+            "target": 155,
+            "weight": 1
+        },
+        {
+            "source": 46,
+            "target": 113,
+            "weight": 3
+        },
+        {
+            "source": 47,
+            "target": 106,
+            "weight": 6
+        },
+        {
+            "source": 48,
+            "target": 10,
+            "weight": 3
+        },
+        {
+            "source": 49,
+            "target": 151,
+            "weight": 5
+        },
+        {
+            "source": 50,
+            "target": 141,
+            "weight": 4
+        },
+        {
+            "source": 51,
+            "target": 126,
+            "weight": 5
+        },
+        {
+            "source": 52,
+            "target": 83,
+            "weight": 6
+        },
+        {
+            "source": 53,
+            "target": 84,
+            "weight": 6
+        },
+        {
+            "source": 54,
+            "target": 84,
+            "weight": 5
+        },
+        {
+            "source": 55,
+            "target": 108,
+            "weight": 2
+        },
+        {
+            "source": 56,
+            "target": 35,
+            "weight": 3
+        },
+        {
+            "source": 57,
+            "target": 97,
+            "weight": 5
+        },
+        {
+            "source": 58,
+            "target": 47,
+            "weight": 3
+        },
+        {
+            "source": 59,
+            "target": 197,
+            "weight": 3
+        },
+        {
+            "source": 60,
+            "target": 78,
+            "weight": 4
+        },
+        {
+            "source": 61,
+            "target": 49,
+            "weight": 5
+        },
+        {
+            "source": 62,
+            "target": 140,
+            "weight": 3
+        },
+        {
+            "source": 63,
+            "target": 121,
+            "weight": 3
+        },
+        {
+            "source": 64,
+            "target": 105,
+            "weight": 3
+        },
+        {
+            "source": 65,
+            "target": 105,
+            "weight": 4
+        },
+        {
+            "source": 66,
+            "target": 48,
+            "weight": 4
+        },
+        {
+            "source": 67,
+            "target": 141,
+            "weight": 2
+        },
+        {
+            "source": 68,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "source": 69,
+            "target": 124,
+            "weight": 4
+        },
+        {
+            "source": 70,
+            "target": 66,
+            "weight": 6
+        },
+        {
+            "source": 71,
+            "target": 151,
+            "weight": 6
+        },
+        {
+            "source": 72,
+            "target": 40,
+            "weight": 3
+        },
+        {
+            "source": 73,
+            "target": 100,
+            "weight": 6
+        },
+        {
+            "source": 74,
+            "target": 102,
+            "weight": 6
+        },
+        {
+            "source": 75,
+            "target": 34,
+            "weight": 4
+        },
+        {
+            "source": 76,
+            "target": 140,
+            "weight": 6
+        },
+        {
+            "source": 77,
+            "target": 32,
+            "weight": 1
+        },
+        {
+            "source": 78,
+            "target": 115,
+            "weight": 5
+        },
+        {
+            "source": 79,
+            "target": 51,
+            "weight": 6
+        },
+        {
+            "source": 80,
+            "target": 65,
+            "weight": 3
+        },
+        {
+            "source": 81,
+            "target": 188,
+            "weight": 3
+        },
+        {
+            "source": 82,
+            "target": 120,
+            "weight": 6
+        },
+        {
+            "source": 83,
+            "target": 182,
+            "weight": 4
+        },
+        {
+            "source": 84,
+            "target": 102,
+            "weight": 4
+        },
+        {
+            "source": 85,
+            "target": 165,
+            "weight": 5
+        },
+        {
+            "source": 86,
+            "target": 88,
+            "weight": 4
+        },
+        {
+            "source": 87,
+            "target": 72,
+            "weight": 2
+        },
+        {
+            "source": 88,
+            "target": 9,
+            "weight": 3
+        },
+        {
+            "source": 89,
+            "target": 7,
+            "weight": 3
+        },
+        {
+            "source": 90,
+            "target": 64,
+            "weight": 6
+        },
+        {
+            "source": 91,
+            "target": 67,
+            "weight": 4
+        },
+        {
+            "source": 92,
+            "target": 155,
+            "weight": 4
+        },
+        {
+            "source": 93,
+            "target": 78,
+            "weight": 2
+        },
+        {
+            "source": 94,
+            "target": 22,
+            "weight": 4
+        },
+        {
+            "source": 95,
+            "target": 55,
+            "weight": 4
+        },
+        {
+            "source": 96,
+            "target": 96,
+            "weight": 4
+        },
+        {
+            "source": 97,
+            "target": 21,
+            "weight": 5
+        },
+        {
+            "source": 98,
+            "target": 116,
+            "weight": 3
+        },
+        {
+            "source": 99,
+            "target": 116,
+            "weight": 1
+        },
+        {
+            "source": 100,
+            "target": 58,
+            "weight": 2
+        },
+        {
+            "source": 101,
+            "target": 190,
+            "weight": 4
+        },
+        {
+            "source": 102,
+            "target": 17,
+            "weight": 3
+        },
+        {
+            "source": 103,
+            "target": 25,
+            "weight": 4
+        },
+        {
+            "source": 104,
+            "target": 26,
+            "weight": 2
+        },
+        {
+            "source": 105,
+            "target": 179,
+            "weight": 3
+        },
+        {
+            "source": 106,
+            "target": 143,
+            "weight": 2
+        },
+        {
+            "source": 107,
+            "target": 17,
+            "weight": 6
+        },
+        {
+            "source": 108,
+            "target": 64,
+            "weight": 2
+        },
+        {
+            "source": 109,
+            "target": 198,
+            "weight": 5
+        },
+        {
+            "source": 110,
+            "target": 124,
+            "weight": 4
+        },
+        {
+            "source": 111,
+            "target": 18,
+            "weight": 3
+        },
+        {
+            "source": 112,
+            "target": 24,
+            "weight": 1
+        },
+        {
+            "source": 113,
+            "target": 109,
+            "weight": 1
+        },
+        {
+            "source": 114,
+            "target": 165,
+            "weight": 3
+        },
+        {
+            "source": 115,
+            "target": 30,
+            "weight": 5
+        },
+        {
+            "source": 116,
+            "target": 97,
+            "weight": 3
+        },
+        {
+            "source": 117,
+            "target": 102,
+            "weight": 3
+        },
+        {
+            "source": 118,
+            "target": 53,
+            "weight": 3
+        },
+        {
+            "source": 119,
+            "target": 132,
+            "weight": 4
+        },
+        {
+            "source": 120,
+            "target": 184,
+            "weight": 1
+        },
+        {
+            "source": 121,
+            "target": 147,
+            "weight": 3
+        },
+        {
+            "source": 122,
+            "target": 98,
+            "weight": 4
+        },
+        {
+            "source": 123,
+            "target": 128,
+            "weight": 1
+        },
+        {
+            "source": 124,
+            "target": 22,
+            "weight": 4
+        },
+        {
+            "source": 125,
+            "target": 155,
+            "weight": 5
+        },
+        {
+            "source": 126,
+            "target": 66,
+            "weight": 6
+        },
+        {
+            "source": 127,
+            "target": 92,
+            "weight": 4
+        },
+        {
+            "source": 128,
+            "target": 105,
+            "weight": 5
+        },
+        {
+            "source": 129,
+            "target": 91,
+            "weight": 4
+        },
+        {
+            "source": 130,
+            "target": 104,
+            "weight": 2
+        },
+        {
+            "source": 131,
+            "target": 49,
+            "weight": 6
+        },
+        {
+            "source": 132,
+            "target": 41,
+            "weight": 6
+        },
+        {
+            "source": 133,
+            "target": 20,
+            "weight": 4
+        },
+        {
+            "source": 134,
+            "target": 92,
+            "weight": 2
+        },
+        {
+            "source": 135,
+            "target": 118,
+            "weight": 6
+        },
+        {
+            "source": 136,
+            "target": 66,
+            "weight": 3
+        },
+        {
+            "source": 137,
+            "target": 118,
+            "weight": 3
+        },
+        {
+            "source": 138,
+            "target": 91,
+            "weight": 4
+        },
+        {
+            "source": 139,
+            "target": 100,
+            "weight": 1
+        },
+        {
+            "source": 140,
+            "target": 168,
+            "weight": 1
+        },
+        {
+            "source": 141,
+            "target": 3,
+            "weight": 3
+        },
+        {
+            "source": 142,
+            "target": 60,
+            "weight": 3
+        },
+        {
+            "source": 143,
+            "target": 124,
+            "weight": 2
+        },
+        {
+            "source": 144,
+            "target": 66,
+            "weight": 6
+        },
+        {
+            "source": 145,
+            "target": 97,
+            "weight": 5
+        },
+        {
+            "source": 146,
+            "target": 75,
+            "weight": 6
+        },
+        {
+            "source": 147,
+            "target": 128,
+            "weight": 4
+        },
+        {
+            "source": 148,
+            "target": 169,
+            "weight": 5
+        },
+        {
+            "source": 149,
+            "target": 41,
+            "weight": 6
+        },
+        {
+            "source": 150,
+            "target": 124,
+            "weight": 6
+        },
+        {
+            "source": 151,
+            "target": 90,
+            "weight": 5
+        },
+        {
+            "source": 152,
+            "target": 75,
+            "weight": 5
+        },
+        {
+            "source": 153,
+            "target": 141,
+            "weight": 1
+        },
+        {
+            "source": 154,
+            "target": 72,
+            "weight": 2
+        },
+        {
+            "source": 155,
+            "target": 196,
+            "weight": 3
+        },
+        {
+            "source": 156,
+            "target": 130,
+            "weight": 6
+        },
+        {
+            "source": 157,
+            "target": 113,
+            "weight": 4
+        },
+        {
+            "source": 158,
+            "target": 20,
+            "weight": 1
+        },
+        {
+            "source": 159,
+            "target": 145,
+            "weight": 4
+        },
+        {
+            "source": 160,
+            "target": 131,
+            "weight": 3
+        },
+        {
+            "source": 161,
+            "target": 124,
+            "weight": 5
+        },
+        {
+            "source": 162,
+            "target": 113,
+            "weight": 3
+        },
+        {
+            "source": 163,
+            "target": 189,
+            "weight": 1
+        },
+        {
+            "source": 164,
+            "target": 57,
+            "weight": 2
+        },
+        {
+            "source": 165,
+            "target": 114,
+            "weight": 5
+        },
+        {
+            "source": 166,
+            "target": 146,
+            "weight": 6
+        },
+        {
+            "source": 167,
+            "target": 195,
+            "weight": 2
+        },
+        {
+            "source": 168,
+            "target": 194,
+            "weight": 2
+        },
+        {
+            "source": 169,
+            "target": 53,
+            "weight": 4
+        },
+        {
+            "source": 170,
+            "target": 56,
+            "weight": 5
+        },
+        {
+            "source": 171,
+            "target": 117,
+            "weight": 5
+        },
+        {
+            "source": 172,
+            "target": 191,
+            "weight": 5
+        },
+        {
+            "source": 173,
+            "target": 37,
+            "weight": 1
+        },
+        {
+            "source": 174,
+            "target": 145,
+            "weight": 3
+        },
+        {
+            "source": 175,
+            "target": 76,
+            "weight": 2
+        },
+        {
+            "source": 176,
+            "target": 179,
+            "weight": 5
+        },
+        {
+            "source": 177,
+            "target": 180,
+            "weight": 5
+        },
+        {
+            "source": 178,
+            "target": 105,
+            "weight": 1
+        },
+        {
+            "source": 179,
+            "target": 190,
+            "weight": 6
+        },
+        {
+            "source": 180,
+            "target": 0,
+            "weight": 2
+        },
+        {
+            "source": 181,
+            "target": 192,
+            "weight": 6
+        },
+        {
+            "source": 182,
+            "target": 56,
+            "weight": 4
+        },
+        {
+            "source": 183,
+            "target": 153,
+            "weight": 4
+        },
+        {
+            "source": 184,
+            "target": 1,
+            "weight": 5
+        },
+        {
+            "source": 185,
+            "target": 148,
+            "weight": 6
+        },
+        {
+            "source": 186,
+            "target": 41,
+            "weight": 3
+        },
+        {
+            "source": 187,
+            "target": 169,
+            "weight": 5
+        },
+        {
+            "source": 188,
+            "target": 94,
+            "weight": 5
+        },
+        {
+            "source": 189,
+            "target": 100,
+            "weight": 3
+        },
+        {
+            "source": 190,
+            "target": 153,
+            "weight": 1
+        },
+        {
+            "source": 191,
+            "target": 191,
+            "weight": 1
+        },
+        {
+            "source": 192,
+            "target": 85,
+            "weight": 3
+        },
+        {
+            "source": 193,
+            "target": 7,
+            "weight": 5
+        },
+        {
+            "source": 194,
+            "target": 43,
+            "weight": 2
+        },
+        {
+            "source": 195,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "source": 196,
+            "target": 172,
+            "weight": 4
+        },
+        {
+            "source": 197,
+            "target": 175,
+            "weight": 5
+        },
+        {
+            "source": 198,
+            "target": 120,
+            "weight": 2
+        },
+        {
+            "source": 199,
+            "target": 25,
+            "weight": 3
+        }
+    ]
+}

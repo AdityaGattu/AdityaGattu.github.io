@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>FIFA Player Network Graph</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="./CSS/network.css" />
+    <style>
+      /* Add CSS styles */
+    </style>
+  </head>
+
+  <body>
+    <div>
+      <div class="dropdown-wrapper">
+        <div class="checkbox-grid" id="countryCheckboxes">
+          <!-- Checkboxes will be dynamically populated using JS Code -->
+        </div>
+      </div>
+
+      <div id="legend" class="legend">
+        <ul>
+          <li><span class="legend-player"></span> Player</li>
+          <li><span class="legend-club"></span> Club</li>
+          <li><span class="legend-nationality"></span> Nationality</li>
+        </ul>
+      </div>
+
+      <div class="graph-description">
+        <p>
+          This network graph visualizes the connections between football players
+          and their clubs across different countries, illustrating the global
+          distribution of talent and club affiliations.
+        </p>
+      </div>
+
+      <svg id="graph"></svg>
+
+      <!-- Tooltip -->
+      <div class="tooltip" id="tooltip"></div>
+    </div>
+
+    <script src="./JS/network.js"></script>
+
+    <script></script>
+  </body>
+</html>

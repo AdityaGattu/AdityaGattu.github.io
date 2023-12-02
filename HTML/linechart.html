@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Top 10 Players Bar and Line Chart</title>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/CSS/linechart.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="headers_lc">
+    <div>
+      <h1 class="class1_lc">Goal Stats</h1>
+      <p class="description_lc">This visualization tracks the goal-scoring performance of selected countries in World Cup history.</p>
+    </div>
+    <div>
+      <h1 class="class1_lc">Ranking Stats</h1>
+      <p class="description_lc">This graph tracks the fluctuating FIFA rankings of selected countries, reflecting their changing competitive status over time.</p>
+    </div>
+  </div>
+
+  <div class="country-dropdown_lc">
+    <label for="country1_lc">Country 1:</label>
+    <select class="form-control" id="country1_lc"></select>
+  
+    <label for="country2_lc">Country 2:</label>
+    <select class="form-control" id="country2_lc"></select>
+  </div>
+  
+  <div class="bottom-charts_lc">
+    <div id="chart"></div>
+    <div id="goals-tip"></div>
+  
+    <div id="ranking-chart"></div>
+    <div id="ranking-tip"></div>
+  </div>
+  
+  
+  <div class="outer_lc">
+    <div class="barchart">
+      <h1 class="class2_lc">Player Skill Stats</h1>
+      <p class="description_lc">This chart ranks top players by a specific skill from a selected country.</p>
+      <div class="dropdown-container_lc">
+        <div class="form-group">
+          <label for="country-dropdown_lc">Select Country:</label>
+          <select class="dropdown_lc form-control" id="country-dropdown_lc"></select>
+        </div>
+        <div class="form-group">
+          <label for="skill-dropdown">Select Skill:</label>
+          <select class="dropdown_lc form-control" id="skill-dropdown"></select>
+        </div>
+      </div>
+      <div id="chart-container_lc"></div>
+    </div>
+  
+    <div id="line-chart-container"></div>
+  
+    <div class="container">
+      <div class="row heading_lc">
+        <h1 class="class2_lc">World Cup Stats</h1>
+        <p class="description_lc">This illustration tracks key World Cup statistics over time, including goals scored, teams qualified, matches played, and attendance figures.</p>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="formclass_lc row">
+            <div class="skills_lc col-md-7">
+              <form class="form-inline">
+                <div class="form-group">
+                  <select id="data-type" class="form-control" onchange="updateChartBasedOnSelection()">
+                    <option value="GoalsTotal">Goals Total</option>
+                    <option value="TeamsQualified">Teams Qualified</option>
+                    <option value="MatchesCount">Matches Played</option>
+                    <option value="TeamsCount">Teams Count</option>
+                    <option value="TotalAttendance">Total Attendance</option>
+                    <option value="AverageGoals">Average Goals</option>
+                  </select>
+                </div>
+              </form>
+            </div>
+
+            <div class="col-md-7">
+              <form class="yearclass_lc form-inline" default="true" onsubmit="updateChartBasedOnSelection();return false;">
+                <div class="form-group">
+                  <label for="From"></label>
+                  <input type="text" id="From" class="form-control" placeholder="Start Year">
+                </div>
+                <div class="yearclass_lc form-group">
+                  <label for="To"></label>
+                  <input type="text" class="form-control" placeholder="End Year" id="To">
+                </div>
+                <button type="submit" class="btn apply_lc">Apply</button>
+              </form>
+            </div>
+          </div>
+          <div class="row">
+            <div id="chart-area_lc"></div>
+            <div id="chart-tip"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.min.js"></script>
+  <script src="/JS/linechart.js"></script>
+</body>
+</html>

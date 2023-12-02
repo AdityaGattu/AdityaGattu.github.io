@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Interactive Visualization</title>
+  <link rel="stylesheet" type="text/css" href="./CSS/network2.css" />
+  <script src="https://d3js.org/d3.v2.min.js?2.9.3"></script>
+  <style>
+ 
+  </style>
+</head>
+<body>
+<div id="tooltip" class="tooltip" style="opacity:0;"></div>
+
+<div class="header-container">
+    <h1 class="header-title">Interactive Player Interaction Network</h1>
+    <p class="header-description">
+        Explore the Dynamics: This interactive graph maps the on-field interactions between players, highlighting patterns of play. Red nodes mark frequent negative interactions, potentially indicating strategic weaknesses or Match fixing possibility. Use the filters to view by country or club and uncover insights into team and player connections.
+    </p>
+</div>
+
+<div class="dropdowns-container">
+  <h3 class="checkbox-title">Select Countries</h3>
+  <div class="checkbox-container" id="country-checkbox-container">
+    <!-- Country checkboxes will be populated dynamically -->
+  </div>
+
+  <h3 class="checkbox-title">Select Countries</h3>
+  <div class="checkbox-container" id="club-checkbox-container">
+    <!-- Club checkboxes will be populated dynamically -->
+  </div>
+
+  <div class="info-container" id="graph-info" style="float: right; width: calc(100% - 220px); margin-left: 20px;">
+    <p><strong>Negative Interaction (-ve):</strong> Described as an event where a player's interaction with another player results in a goal for the opposing team. These could be mistakes like lost balls or poor passes leading to counter-attacks..</p>
+    <p><strong>Negative Impression:</strong> This is a metric indicating players who have repeatedly had negative interactions with the same player, possibly suggesting match fixing between those two..</p>
+    <div class="legend-container">
+        <div class="legend-item">
+          <span class="legend-symbol red-node"></span>
+          <span class="legend-text"> Red Node: Player with potential <span class="highlight">match-fixing</span> risk</span>
+        </div>
+        <div class="legend-item">
+          <span class="legend-symbol green-node"></span>
+          <span class="legend-text">Green Node: Player with no negative interactions</span>
+        </div>
+        <div class="legend-item">
+          <span class="legend-symbol grey-node"></span>
+          <span class="legend-text">Grey Node: Player exhibiting normal behavior</span>
+        </div>
+        <div class="legend-item">
+          <span class="legend-symbol red-edge"></span>
+          <span class="legend-text">Red Edge: Frequent negative interactions between those two players</span>
+        </div>
+        <div class="legend-item">
+          <span class="legend-symbol green-edge"></span>
+          <span class="legend-text">Green Edge: Very few negative interactions between those two players</span>
+        </div>
+      </div>
+      
+</div>
+  
+  
+</div>
+<script src="./JS/network2.js"></script>
+</body>
+</html>
