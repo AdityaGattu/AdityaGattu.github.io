@@ -18,8 +18,8 @@ Welcome to the FIFA VizPlay project! This interactive data visualization project
 --- 
 
 ## Project Resources
-- **Project Website**: [FIFA VizPlay Official Site](your-website-url)
-- **Screencast Video**: [Walkthrough of FIFA VizPlay](your-screencast-url)
+- **Project Website**: [FIFA VizPlay Official Site](https://adityagattu.github.io/)
+- **Screencast Video**: [Walkthrough of FIFA VizPlay](https://youtu.be/ZxxKwHBvwyA)
 
 ## Non-Obvious Features
 - **Interactive Maps**: Explore the global distribution of football talent.
